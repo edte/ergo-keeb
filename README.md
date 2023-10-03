@@ -31,14 +31,19 @@
 | Rommana | [Github](https://github.com/AlaaSaadAbdo/Rommana)|&check; | - | - | - | - | - | - | - |
 | flow | [Github](https://github.com/jsallan/flow) |&check; | - | - | - | - | - | - | - |
 
-
-
-# 笔记本电脑
+ 
 - [pineapple60](https://github.com/saoto28/pineapple60)
 - [framedeck](https://github.com/brickbots/framedeck)
 - [thinkeys](https://github.com/moduloindustries/thinkeys)
 - 可能有人会为即将推出的框架 16 制作一个'
 
+
+# 笔记本电脑
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+- [pineapple60](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
+- [framedeck](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
+- [thinkeys](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
 
 # 一体式平板
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
