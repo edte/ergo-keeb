@@ -1,4 +1,4 @@
-r# 分体平铺 
+# 分体平铺 
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
@@ -27,6 +27,7 @@ r# 分体平铺
 | Skeletyl|[Github](https://github.com/Bastardkb/Skeletyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 35 | &check; |
 | TBK-Mini|[Github](https://github.com/Bastardkb/TBK-Mini)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 36 | &check; |
 | Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
+| Scylla|[Github](https://github.com/Bastardkb/Scylla)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 46 | &check; |
 | smudge |[Github](https://github.com/Sandalmoth/keyboards/tree/master/smudge)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 42 | &check; | 
 | vfk001 | [Github](https://github.com/v0Ch/vfk-001) | &check; | &#10007; | &check; | &#10007; | &check; | &#10007; | 36 | &#10007; |
 | trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &#10007; | &#10007; | &check; | &#10007; | 40 | &#10007; | 
@@ -74,8 +75,6 @@ r# 分体平铺
 | yacc46 |[Github](https://github.com/1m38/keyboards/tree/main/yacc46)|&check; | &#10007; | &check; |
 
 
-
-
 # 平面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
@@ -100,6 +99,7 @@ r# 分体平铺
 | claudia | [Github](https://github.com/subottimale/Claudia) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 34 | &#10007; | &#10007; |
 | tps42 | [Github](https://github.com/crehmann/TPS42) | &check; | &check; | &check; | &#10007; | &check; | &#10007; | 42/36 | &#10007; | &check; |
 
+
 # 轨迹球键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
@@ -110,12 +110,18 @@ r# 分体平铺
 | daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
 
 # 小红点键盘
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| Charybdis |[Github](https://github.com/Bastardkb/Charybdis)|&check; | &check; | &check; |
 
 
 # 触控板键盘
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| Dilemma |[Github](https://github.com/Bastardkb/Dilemma)|&check; | &check; | &check; |
 
 
-# 3D打印平板
+# 3D 打印平板
 - [btrfld](https://github.com/SolidHal/btrfld) (worth checking out)
 - [void ergo](https://github.com/victorlucachi/void_ergo)
 - [Aether](https://github.com/Y5U/Aether)
