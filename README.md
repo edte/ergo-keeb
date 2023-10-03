@@ -28,7 +28,7 @@
 | [crkbd/corne](https://github.com/foostan/crkbd) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x6 | ![屏幕截图 2023-10-03 153350](https://github.com/edte/ergonomic-keyboard/assets/50194671/95380590-3e81-4ee4-ae6a-cd8e826a9a11) |
 | [sweep](https://github.com/davidphilipbarr/Sweep) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 | ![屏幕截图 2023-10-03 154156](https://github.com/edte/ergonomic-keyboard/assets/50194671/7b4d4bca-2e17-4331-b3f9-7fe7ff38db9a) |
 | [craftwalk](https://github.com/sotoba/craftwalk) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | emmm | ![屏幕截图 2023-10-03 154443](https://github.com/edte/ergonomic-keyboard/assets/50194671/12143435-5a59-4f94-96a6-92d0692ecd04) |
-| [cephalopoda](https://github.com/tapioki/cephalopoda) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [cephalopoda](https://github.com/tapioki/cephalopoda) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 | ![屏幕截图 2023-10-03 155329](https://github.com/edte/ergonomic-keyboard/assets/50194671/8b78a20e-d3b4-43c2-ac28-1a4e738b1031) |
 | [torn](https://github.com/rtitmuss/torn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
 | [Squiggle](https://github.com/ibnuda/Squiggle) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
 | [pinci](https://github.com/camrbuss/pinci) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
