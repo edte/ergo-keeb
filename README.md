@@ -54,7 +54,6 @@
 | [redox-keyboard](https://github.com/mattdibi/redox-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![屏幕截图 2023-10-03 180005](https://github.com/edte/ergonomic-keyboards/assets/50194671/2cd289c8-0d6f-4783-8157-c1283f4b8645)   |
 | [Basbousa](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/542b9171-8db5-4ac9-b635-5bb55978c589)  |
 | [Konafa](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/c92bbdc3-255b-492e-adf2-79edcc0986fc)|
-| [Rommana](https://github.com/AlaaSaadAbdo/Rommana) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/5458b82a-9014-4f9a-af41-9f9b6fbaaa56)|
 | [btrfld](https://github.com/SolidHal/btrfld) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/899e2717-4674-480f-8c8b-445f45c90fe6)|
 | [void_ergo](https://github.com/victorlucachi/void_ergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b3e768bd-4cc9-46c4-8957-cb9b07da1927)|
 | [Fulcrum](https://github.com/dschil138/Fulcrum) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/02656b16-49e5-4022-83ec-fa2969168f2e)|
@@ -100,6 +99,7 @@
 | [jaredjennings/dactyl-keyboard](https://github.com/jaredjennings/dactyl-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0e911ee7-6c87-40c8-bfa4-3d130a254606) |
 | [Viosuo](https://github.com/Baranowski/Viosuo)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/fcd25b3d-60ec-4ec6-bd16-ea14e7b71a7a)|
 | [lalboard](https://github.com/JesusFreke/lalboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/abd37feb-f013-47e0-8009-36ebd125f915)|
+| [Rommana](https://github.com/AlaaSaadAbdo/Rommana) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/5458b82a-9014-4f9a-af41-9f9b6fbaaa56)|
 
 
 
