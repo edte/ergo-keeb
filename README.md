@@ -31,12 +31,6 @@
 | Rommana | [Github](https://github.com/AlaaSaadAbdo/Rommana)|&check; | - | - | - | - | - | - | - |
 | flow | [Github](https://github.com/jsallan/flow) |&check; | - | - | - | - | - | - | - |
 
- 
-- [pineapple60](https://github.com/saoto28/pineapple60)
-- [framedeck](https://github.com/brickbots/framedeck)
-- [thinkeys](https://github.com/moduloindustries/thinkeys)
-- 可能有人会为即将推出的框架 16 制作一个'
-
 
 # 笔记本电脑
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
@@ -64,23 +58,26 @@
 | yacc46 |[Github](https://github.com/1m38/keyboards/tree/main/yacc46)|&check; | &#10007; | &check; |
 
 # 分体平铺 
-(will put this in table soon)
-- [craftwalk](https://github.com/sotoba/craftwalk)
-- [cephalopoda](https://github.com/tapioki/cephalopoda)
-- [torn](https://github.com/rtitmuss/torn)
-- [Squiggle](https://github.com/ibnuda/Squiggle)
-- [pinci](https://github.com/camrbuss/pinci)
-- [lunakey](https://github.com/yoichiro/lunakey)
-- [bug](https://github.com/jimmerricks/bugs)
-- [pierce](https://github.com/durken1/pierce) // wireless
-- [clog](https://github.com/smores56/clog)
-- [hillside](https://github.com/mmccoyd/hillside)
-- [battoota](https://github.com/AlaaSaadAbdo/battoota)
-- [Djinn](https://github.com/tzarc/djinn) by tzarc
-- [ferris](https://github.com/pierrechevalier83/ferris)
-- [sweep](https://github.com/davidphilipbarr/Sweep)
-- [hypergolic](https://github.com/davidphilipbarr/hypergolic)
-- [Paroxysm](https://github.com/davidphilipbarr/paroxysm)
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| craftwalk |[Github](https://github.com/sotoba/craftwalk)|&check; | &#10007; | &check; |
+| cephalopoda |[Github](https://github.com/tapioki/cephalopoda)|&check; | &#10007; | &check; |
+|torn  |[Github](https://github.com/rtitmuss/torn)|&check; | &#10007; | &check; |
+| Squiggle |[Github](https://github.com/ibnuda/Squiggle)|&check; | &#10007; | &check; |
+| pinci |[Github](https://github.com/camrbuss/pinci)|&check; | &#10007; | &check; |
+| lunakey |[Github](https://github.com/yoichiro/lunakey)|&check; | &#10007; | &check; |
+| bug |[Github](https://github.com/jimmerricks/bugs)|&check; | &#10007; | &check; |
+|  pierce|[Github](https://github.com/durken1/pierce)|&check; | &#10007; | &check; |
+|clog  |[Github](https://github.com/smores56/clog)|&check; | &#10007; | &check; |
+| hillside |[Github](https://github.com/mmccoyd/hillside)|&check; | &#10007; | &check; |
+| battoota |[Github](https://github.com/AlaaSaadAbdo/battoota)|&check; | &#10007; | &check; |
+| Djinn |[Github](https://github.com/tzarc/djinn)|&check; | &#10007; | &check; |
+| ferris |[Github](https://github.com/pierrechevalier83/ferris)|&check; | &#10007; | &check; |
+| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
+| hypergolic |[Github](https://github.com/davidphilipbarr/hypergolic)|&check; | &#10007; | &check; |
+| Paroxysm |[Github](https://github.com/davidphilipbarr/paroxysm)|&check; | &#10007; | &check; |
+|  |[Github]()|&check; | &#10007; | &check; |
+
 
 
 # 平面键盘
