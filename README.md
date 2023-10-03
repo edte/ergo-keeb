@@ -82,7 +82,7 @@
 | [flow](https://github.com/jsallan/flow)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
 
 
-# 一体式平板
+# 一体平面
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | hummingbird |[Github](https://github.com/PJE66/hummingbird)|&check; | &#10007; | &check; |
