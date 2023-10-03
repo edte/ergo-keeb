@@ -156,29 +156,12 @@
 | [thinkeys](https://github.com/moduloindustries/thinkeys) | 小红点 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b5f31520-ce60-4544-a9f5-253a8441ae3d) |
 
 
+# 宏键盘
+| 姓名 | 图片 |
+|------|---|
+| [Hub16](https://github.com/joshajohnson/Hub16)|![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/77373dee-08c9-418b-b253-1d5e2fe36e86)| 
+| [毒蟒](http://www.beyondq.com/)|![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/067c3db8-b33a-4f7c-b9c6-39812b45787f)| 
 
-
-
-# 键盘生成器
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Dometyl |[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
-| cadquery 短指 |[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
-| 在线 Dactyl 配置器 |[Github](https://github.com/rianadon/dactyl-configurator)|&check; | &#10007; | &check; |
-| cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
-| 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
-
-# 轨迹球模块
-- [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
-- [scroll ring trackball](https://github.com/jfedor2/scroll-ring-trackball)
-- [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2)
-- [trackball](https://github.com/monroewilliams/trackball)
-- [two ball trackball](https://github.com/jfedor2/two-ball-trackball)
-- [aball](https://github.com/brickbots/aball)
-- [ploppy classic](https://github.com/ploopyco/classic-trackball)[ploppy store](https://ploopy.co/)
-- [ploppy mini](https://github.com/ploopyco/mini-trackball)[ploppy store](https://ploopy.co/)
-- [ploppy nano](https://github.com/ploopyco/nano-trackball)[ploppy store](https://ploopy.co/)
-- [ploppy thumb](https://github.com/ploopyco/thumb-trackball)[ploppy store](https://ploopy.co/)
 
 # 键帽
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
@@ -194,28 +177,46 @@
 | LPX | [Github](https://github.com/levpopov/LPX) | &check; | &#10007; | &check; | 
 
 
-# DIY热插拔
+# 轨迹球模块
+- [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
+- [scroll ring trackball](https://github.com/jfedor2/scroll-ring-trackball)
+- [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2)
+- [trackball](https://github.com/monroewilliams/trackball)
+- [two ball trackball](https://github.com/jfedor2/two-ball-trackball)
+- [aball](https://github.com/brickbots/aball)
+- [ploppy classic](https://github.com/ploopyco/classic-trackball)[ploppy store](https://ploopy.co/)
+- [ploppy mini](https://github.com/ploopyco/mini-trackball)[ploppy store](https://ploopy.co/)
+- [ploppy nano](https://github.com/ploopyco/nano-trackball)[ploppy store](https://ploopy.co/)
+- [ploppy thumb](https://github.com/ploopyco/thumb-trackball)[ploppy store](https://ploopy.co/)
+
+
+# 键盘生成器
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| Dometyl |[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
+| cadquery 短指 |[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
+| 在线 Dactyl 配置器 |[Github](https://github.com/rianadon/dactyl-configurator)|&check; | &#10007; | &check; |
+| cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
+| 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
+
+
+# 热插拔插座
 - [handwiredhotswap](https://github.com/stingray127/handwirehotswap)
 - [热插拔 PCB 发生器](https://github.com/50an6xy06r6n/hotswap_pcb_generator)
 
 
-# 宏键盘
-- [Hub16](https://github.com/joshajohnson/Hub16)
 
-
-# KLE相关工具
+# 键盘布局编辑器
 - [KLE pcb gen](https://github.com/jeroen94704/klepcbgen)
 - [KLE render](https://github.com/CQCumbers/kle_render)
 - [BoardBuilder](https://github.com/CurrentResident/BoardBuilder)
 
-# Logger
+# 日志调试
 - [key frequency logger](https://github.com/ErgoKB/key_frequency_logger)
 
 
-# MCU
-- [splinktegrated](https://github.com/Bastardkb/splinktegrated)
-
-# keymap
+# 键盘布局
+- [miryoku](https://github.com/manna-harbour/miryoku)
 - [kombol](https://github.com/skychil/kombol)
 - [getreuer's keymap](https://github.com/getreuer/qmk-keymap)
 - [andrewjrae's kyria keymap](https://github.com/andrewjrae/kyria-keymap)
