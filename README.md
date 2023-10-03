@@ -254,6 +254,18 @@
 - [ergogen-v4-迁移指南](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
 - [Homerow mods前提条件](https://precondition.github.io/home-row-mods)
 - [忠实的键盘博客](https://getreuer.info/posts/keyboards/index.html)
+- [qmk](https://docs.qmk.fm/#/keycodes?id=auto-shift)
+- [via](https://usevia.app/)
+- [vial](https://get.vial.today/)
+- [zmk](https://zmk.dev/)
+- [zmk editor](https://nickcoutsos.github.io/keymap-editor/)
+- [按键测试](https://keyboard.bmcx.com/)
+
+
+
+
+
+
 
 
 # WIP
