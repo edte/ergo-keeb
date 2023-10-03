@@ -1,5 +1,5 @@
 # 凹面键盘
-| Name | Link | Open source | kit/pcb | diy | encoder | track ball/pad | num row | keys | pinky splay |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 轨迹球/垫 | 行数 | keys | 小指张开 |
 |------|------|-------------|---------|--------------|-----|-----|-----|-----|-----|
 | Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
 | Cygnus |[Github](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v0.5)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 36 | &check; | 
@@ -77,7 +77,7 @@
 
 
 # 平面键盘
-| Name | Link | Open source | kit/pcb | diy | encoder | trackpad/trackball | num row | keys | pinky splay | split |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
 | KLOR | [Github](https://github.com/GEIGEIGEIST/KLOR) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36-42 | &check; | &check; |
 | chunky2040 | [Github](https://github.com/freznel10/Chunky2040_rev2) | &check; | &check; | &#10007; | &check; | &check; | &check; | - | &#10007; | &check; unibody is also available |
@@ -111,7 +111,7 @@
 
 
 # Generator
-| Name | Link | Open source | kit/pcb | diy |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Dometyl |[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
 | cadquery Dactyl |[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
@@ -120,7 +120,7 @@
 | keyboard stl generator |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
 
 # Kits
-| Name | Link | Open source | kit/pcb | diy |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Skeletyl |[Github](https://github.com/Bastardkb/Skeletyl), [sells here](https://bastardkb.com/)|&check; | &check; | &check; |
 | Scylla |[Github](https://github.com/Bastardkb/Scylla),[sells here](https://bastardkb.com/)|&check; | &check; | &check; |
@@ -129,7 +129,7 @@
 | Jaredjennings dactyl |[Github](https://github.com/jaredjennings/dactyl-keyboard)|&check; | &check; | &check; |
 
 # Pointer support
-| Name | Link | Open source | kit/pcb | diy |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Charybdis Nano |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano)|&check; | &check; | &check; |
 | Charybdis |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/4x6)|&check; | &check; | &check; |
@@ -151,7 +151,7 @@
 - [ploppy thumb](https://github.com/ploopyco/thumb-trackball)[ploppy store](https://ploopy.co/)
 
 # Extreme (imho)
-| Name | Link | Open source | kit/pcb | diy |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Ergowarp |[Github](https://github.com/pseudoku/ErgoWarp)|&check; | &#10007; | &check; |
 | Viosuo |[Github](https://github.com/Baranowski/Viosuo)|&check; | &#10007; | &check; |
@@ -160,7 +160,7 @@
 | Polykeyboard | [Github](https://github.com/thpoll83/PolyKeyboard) | &check; | &check; | &#10007; |
 
 # Keycaps
-| Name | Link | Open source | kit/pcb | diy |
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Pseudo's keycaps |[Github](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles)|&check; | &check; | &check; |
 | KeyV2 |[Github](https://github.com/rsheldiii/KeyV2)|&check; | &#10007; | &check; |
