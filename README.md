@@ -123,7 +123,7 @@
 | cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
 | 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
 
-# Kits
+# 套件
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Skeletyl |[Github](https://github.com/Bastardkb/Skeletyl), [sells here](https://bastardkb.com/)|&check; | &check; | &check; |
@@ -132,7 +132,7 @@
 | Pico split |[Github](https://github.com/akaenner/picosplit),[sells here](https://kaenner.de/picosplit/buy)|&#10007; | &check; | &#10007; |
 | Jaredjennings dactyl |[Github](https://github.com/jaredjennings/dactyl-keyboard)|&check; | &check; | &check; |
 
-# Pointer support
+# 指针支持
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Charybdis Nano |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano)|&check; | &check; | &check; |
@@ -142,7 +142,7 @@
 | trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
 | daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
 
-# Trackball
+# 轨迹球
 - [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
 - [scroll ring trackball](https://github.com/jfedor2/scroll-ring-trackball)
 - [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2)
@@ -154,7 +154,7 @@
 - [ploppy nano](https://github.com/ploopyco/nano-trackball)[ploppy store](https://ploopy.co/)
 - [ploppy thumb](https://github.com/ploopyco/thumb-trackball)[ploppy store](https://ploopy.co/)
 
-# Extreme (imho)
+# 极端 (imho)
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Ergowarp |[Github](https://github.com/pseudoku/ErgoWarp)|&check; | &#10007; | &check; |
@@ -163,7 +163,7 @@
 | Fulcrum | [Github](https://github.com/dschil138/Fulcrum) | &check; | &#10007; | &check; |
 | Polykeyboard | [Github](https://github.com/thpoll83/PolyKeyboard) | &check; | &check; | &#10007; |
 
-# Keycaps
+# 键帽
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Pseudo's keycaps |[Github](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles)|&check; | &check; | &check; |
@@ -177,16 +177,16 @@
 | LPX | [Github](https://github.com/levpopov/LPX) | &check; | &#10007; | &check; | 
 
 
-# DIY Hotswap
+# DIY热插拔
 - [handwiredhotswap](https://github.com/stingray127/handwirehotswap)
 - [热插拔 PCB 发生器](https://github.com/50an6xy06r6n/hotswap_pcb_generator)
 
 
-# Macropad
+# 宏键盘
 - [Hub16](https://github.com/joshajohnson/Hub16)
 
 
-# Tools related to KLE
+# KLE相关工具
 - [KLE pcb gen](https://github.com/jeroen94704/klepcbgen)
 - [KLE render](https://github.com/CQCumbers/kle_render)
 - [BoardBuilder](https://github.com/CurrentResident/BoardBuilder)
@@ -206,7 +206,7 @@
 - [rafaelromao's keymap](https://github.com/rafaelromao/keyboards)
 
 
-# Guides
+# 指南
 - [用 ergogen 制作键盘](https://flatfootfox.com/ergogen-introduction/)
 - [ergogen-v4-迁移指南](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
 - [Homerow mods前提条件](https://precondition.github.io/home-row-mods)
@@ -233,7 +233,7 @@
 - [使用 warpd 用键盘控制鼠标](https://github.com/rvaiya/warpd)
 
 
-# Source
+# 来源
 - Github (我关注了很多人，所以当有人为某个仓库加注星标时，我最终会看到它)
 - Reddit (键盘相关子版块)
 - Discord (qmk Discord、absolem、fingerpuch、barstard 等)
