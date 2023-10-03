@@ -48,6 +48,9 @@
 | [wren-keyboard ](https://github.com/walterhanley/wren-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/ec6d2468-fea7-4e50-99bf-a1f9640d7aed) |
 | [spleeb ](https://github.com/chrishoage/spleeb) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/c35969c0-2e0e-457c-97b8-a84856b11c1c) |
 | [pica40 ](https://github.com/zzeneg/pica40) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/bb21c4da-99c2-4f34-83d5-48f6aa64495b) |
+| [eskarp ](https://github.com/rwalkr/eskarp) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/5cd97cca-69a1-4e8f-9ac4-b7dfd6a90cd2) |
+| [tsbym ](https://github.com/cgxeiji/cgxkb/tree/main/tsbym) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a375e63f-b1fb-4801-a5f6-1d7d2abc93e0) |
+| [TPS42](https://github.com/crehmann/TPS42)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/3705690c-c97a-4cad-995e-dd008cf26f4b)|
 
 
 
@@ -111,35 +114,24 @@
 | [zerosprey42](https://github.com/beekeeb/zerosprey42) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/ac65acbe-7211-4fe9-9c5c-8e92ef203704) |
 | [slim](https://github.com/hazels-garage/bad-wings/tree/master/) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/339f2276-abd0-412f-941f-effba42a7e12) |
 | [torch0](https://github.com/terryorchard/keyb/tree/8e43c6cabf465fd2d7aaf6023da457472571a958/torch0) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/382b3e75-a105-4422-8dfe-fa66bd1edd01) |
+| [BrkOut](https://github.com/weteor/BrkOut)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/947c4a2f-a1a7-46a9-806b-a40fc2745917)  |
+| [CrowBoard](https://github.com/doesntfazer/CrowBoard)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/61e0ce4d-b440-4e80-8083-8ed079fdfcc7) |
+| [heartbreak](https://github.com/nnandrew/heartbreak)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b6fc23d9-eece-4a13-b8d3-9536267f189a) |
+| [cocot46](https://github.com/aki27kbd/cocot46)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/93424394-b7c7-4fc8-96d3-d0cd9d133753)|
+| [Claudia](https://github.com/subottimale/Claudia)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/24d4dc69-fb1a-4786-aa9a-cd7c8f42c229)|
 
-
-
-
-# 平面键盘
-| 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
-|------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
-| eskarp | [Github](https://github.com/rwalkr/eskarp) | &check; | &#10007; | &check; | &#10007; | &check; | &check; | 60 | &#10007; | &check; |
-| tsbym | [Github](https://github.com/cgxeiji/cgxkb/tree/main/tsbym) | &check; | &check; | &#10007; | &check; | &check; | &#10007; | 38 | &#10007; |
-| BrkOut | [Github](https://github.com/weteor/BrkOut) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 37 | &#10007; | &#10007; |
-| CrowBoard (pi pico)| [Github](https://github.com/doesntfazer/CrowBoard) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 34/36 | &#10007; | &#10007; |
-| heartbreak | [Github](https://github.com/nnandrew/heartbreak) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 40 | &#10007; | &check; |
-| cocot46 | [Github](https://github.com/aki27kbd/cocot46) | &check; | &check; | &#10007; | &check; | &check; | &#10007; | 46 | &#10007; | &check; |
-| claudia | [Github](https://github.com/subottimale/Claudia) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 34 | &#10007; | &#10007; |
-| tps42 | [Github](https://github.com/crehmann/TPS42) | &check; | &check; | &check; | &#10007; | &check; | &#10007; | 42/36 | &#10007; | &check; |
 
 
 # 轨迹球键盘
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Charybdis |[Github](https://github.com/Bastardkb/Charybdis)|&check; | &check; | &check; |
-| tryadactyl |[Github](https://github.com/wolfwood/tryadactyl)|&check; | &#10007; | &check; |
-| Tractyl manuform |[Github](https://github.com/noahprince22/tractyl-manuform-keyboard)|&check; | &#10007; | &check; |
-| trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
-| daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
-
+| 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys | 图片 |
+| ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ---- | ---- |
 | [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 | [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |    ·![屏幕截图 2023-10-03 171112](https://github.com/edte/ergonomic-keyboards/assets/50194671/4749e3e1-8c47-41cb-bb32-f4e1bbc0276f)  |
-| [flow](https://github.com/jsallan/flow)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [Charybdis](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [trinidox](https://github.com/jsallan/trinidox)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [daqtyl](https://github.com/uqs/daqtyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
 
 
 
