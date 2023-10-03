@@ -42,6 +42,7 @@
 | [craftwalk](https://github.com/sotoba/craftwalk) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![屏幕截图 2023-10-03 154443](https://github.com/edte/ergonomic-keyboard/assets/50194671/12143435-5a59-4f94-96a6-92d0692ecd04) |
 | [KLOR ](https://github.com/GEIGEIGEIST/KLOR) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/20e95b6a-ed0c-4be9-9e67-d232e7115a28) |
 | [picachoc36 ](https://github.com/zzeneg/picachoc36) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/319a3bac-d064-4cdc-a0c7-54cbff1847a1) |
+| [cheapino ](https://github.com/tompi/cheapino) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/368af2a3-90a0-41d9-a08a-76d83ad9ec55) |
 
 
 
@@ -111,7 +112,6 @@
 # 平面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
-| Cheapino | [Github](https://github.com/tompi/cheapino) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007 | 36 | &check; | &check; |
 | toasterfuel's keyboard | [Github](https://github.com/ToasterFuel/Keyboard) | &check; | &#10007; | &check; | &#10007; | &#10007; | &check; | full size | &#10007; | &check; |
 | wren keyboard | [Github](https://github.com/walterhanley/wren-keyboard) | &check; | &check; | &#10007; | &check; | &#10007; | &check; | full size | &#10007; | &check; |
 | spleeb | [Github](https://github.com/chrishoage/spleeb) | &check; | &check; | &#10007; | &check; | &check; | &check; | 62 | &#10007; | &check; | &check; |
