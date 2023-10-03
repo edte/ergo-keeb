@@ -40,6 +40,8 @@
 | [clog](https://github.com/smores56/clog) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? | ![屏幕截图 2023-10-03 161353](https://github.com/edte/ergonomic-keyboard/assets/50194671/9c639309-c4af-4254-9afb-a17d33f146d4) |
 | [hillside](https://github.com/mmccoyd/hillside) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? |![屏幕截图 2023-10-03 161452](https://github.com/edte/ergonomic-keyboard/assets/50194671/3c7d976c-8d85-4306-8ea9-1f13c4cfada3)  |
 | [craftwalk](https://github.com/sotoba/craftwalk) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![屏幕截图 2023-10-03 154443](https://github.com/edte/ergonomic-keyboard/assets/50194671/12143435-5a59-4f94-96a6-92d0692ecd04) |
+| [KLOR ](https://github.com/GEIGEIGEIST/KLOR) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/20e95b6a-ed0c-4be9-9e67-d232e7115a28) |
+| [picachoc36 ](https://github.com/zzeneg/picachoc36) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/319a3bac-d064-4cdc-a0c7-54cbff1847a1) |
 
 
 
@@ -99,18 +101,16 @@
 | [slabv](https://github.com/brickbots/slabv)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/67f518c7-b7fb-4ca6-8ad3-23674afa9d29)    |
 | [trochilidae](https://github.com/jcmkk3/trochilidae)         | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/3db8e091-0170-4ea6-9e5c-5a4bf9a74f62)   |
 | [yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |    ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/365720f2-a08e-46fc-9818-260648ebcdff)  |
+| [osprey](https://github.com/ebastler/osprey) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/3f1d5f32-84ce-4412-9875-2cb511f00920) |
+| [zerosprey42](https://github.com/beekeeb/zerosprey42) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/ac65acbe-7211-4fe9-9c5c-8e92ef203704) |
+| [slim](https://github.com/hazels-garage/bad-wings/tree/master/) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/339f2276-abd0-412f-941f-effba42a7e12) |
+
 
 
 
 # 平面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
-| KLOR | [Github](https://github.com/GEIGEIGEIST/KLOR) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36-42 | &check; | &check; |
-| chunky2040 | [Github](https://github.com/freznel10/Chunky2040_rev2) | &check; | &check; | &#10007; | &check; | &check; | &check; | - | &#10007; | &check; unibody is also available |
-| Osprey |[Github](https://github.com/ebastler/osprey)| &check; | &check; | &#10007; |  &#10007; | &#10007; | &#10007; | 42 | &#10007; | &#10007; |
-| zerosprey42 |[Github](https://github.com/beekeeb/zerosprey42)| &check; | &check; | &#10007; |  &#10007; | &#10007; | &#10007; | 42 | &#10007; | &#10007; |
-| bad-wings slim |[Github](https://github.com/hazels-garage/bad-wings/tree/master/slim)| &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 36 | &#10007; | &#10007; |
-| PicaChoc36 |[Github](https://github.com/zzeneg/picachoc36) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36 | &#10007; | &check; |
 | Cheapino | [Github](https://github.com/tompi/cheapino) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007 | 36 | &check; | &check; |
 | toasterfuel's keyboard | [Github](https://github.com/ToasterFuel/Keyboard) | &check; | &#10007; | &check; | &#10007; | &#10007; | &check; | full size | &#10007; | &check; |
 | wren keyboard | [Github](https://github.com/walterhanley/wren-keyboard) | &check; | &check; | &#10007; | &check; | &#10007; | &check; | full size | &#10007; | &check; |
