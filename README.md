@@ -258,8 +258,9 @@
 - [ktrl](https://github.com/ItayGarin/ktrl)
 - [使用 warpd 用键盘控制鼠标](https://github.com/rvaiya/warpd)
 
-
-# 来源
-- Github (我关注了很多人，所以当有人为某个仓库加注星标时，我最终会看到它)
-- Reddit (键盘相关子版块)
-- Discord (qmk Discord、absolem、fingerpuch、barstard 等)
+# 交流论坛
+- reddit
+- github issue
+- discord
+- [zf](https://www.zfrontier.com/app/flow/eNEZMamjqRr4)
+- 交流群
