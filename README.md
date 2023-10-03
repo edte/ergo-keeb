@@ -41,20 +41,21 @@
 
 
 # 一体式平板
-(will put this in table soon)
-- [hummingbird](https://github.com/PJE66/hummingbird)
-- [balbuzard](https://github.com/brow/balbuzard)
-- [osprette](https://github.com/smores56/osprette) [osprette v3](https://github.com/smores56/osprette-v3)
-- [Tipper-TF](https://github.com/weteor/Tipper-TF)
-- [cyril279 keyboards](https://github.com/cyril279/keyboards)
-- [type c](https://github.com/somepin/type-c)
-- [redherring](https://github.com/dcpedit/redherring)
-- [Claudia](https://github.com/subottimale/Claudia)
-- [chocV](https://github.com/brickbots/chocV) and [slabV](https://github.com/brickbots/slabv)
-- [ghoul](https://github.com/tzarc/ghoul) by tzarc
-- [trochilidae](https://github.com/jcmkk3/trochilidae)
-- [yacc46](https://github.com/1m38/keyboards/tree/main/yacc46)
-
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| hummingbird |[Github](https://github.com/PJE66/hummingbird)|&check; | &#10007; | &check; |
+| balbuzard |[Github](https://github.com/brow/balbuzard)|&check; | &#10007; | &check; |
+| osprette |[Github](https://github.com/smores56/osprette)|&check; | &#10007; | &check; |
+| Tipper-TF |[Github](https://github.com/weteor/Tipper-TF)|&check; | &#10007; | &check; |
+| cyril279 keyboards |[Github](https://github.com/cyril279/keyboards)|&check; | &#10007; | &check; |
+| type c |[Github](https://github.com/somepin/type-c)|&check; | &#10007; | &check; |
+| redherring |[Github](https://github.com/dcpedit/redherring)|&check; | &#10007; | &check; |
+| Claudia |[Github](https://github.com/subottimale/Claudia)|&check; | &#10007; | &check; |
+|chocV  |[Github](https://github.com/brickbots/chocV)|&check; | &#10007; | &check; |
+| ghoul |[Github](https://github.com/tzarc/ghoul)|&check; | &#10007; | &check; |
+|slabv  |[Github](https://github.com/brickbots/slabv)|&check; | &#10007; | &check; |
+| trochilidae |[Github](https://github.com/jcmkk3/trochilidae)|&check; | &#10007; | &check; |
+| yacc46 |[Github](https://github.com/1m38/keyboards/tree/main/yacc46)|&check; | &#10007; | &check; |
 
 # 分体平铺 
 (will put this in table soon)
