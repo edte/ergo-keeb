@@ -1,3 +1,8 @@
+
+![屏幕截图 2023-10-03 143627](https://github.com/edte/ergo-keeb/assets/50194671/8500a6d9-dfd9-4702-9245-3e4d93fb4514)
+
+[34 keys is all you need: an ergonomic keyboard journey - YouTube](https://www.youtube.com/watch?v=unMXQTSQEak)
+
 # 分体平铺 
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
