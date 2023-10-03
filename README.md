@@ -1,7 +1,27 @@
 
 ![屏幕截图 2023-10-03 143627](https://github.com/edte/ergo-keeb/assets/50194671/8500a6d9-dfd9-4702-9245-3e4d93fb4514)
 
+
+什么是人体工程学键盘？
+
+符合人体的构造，自然姿态，长时间打字伤害低，拒绝腱鞘炎，手无需频繁移动等等
+
+包括但不限于：
+
+* 直列
+* 分体
+* 曲面
+* 开源
+* 可编程
+* 结合轨迹球触控板等
+
+
+
+详细介绍可以观看
+
 [34 keys is all you need: an ergonomic keyboard journey - YouTube](https://www.youtube.com/watch?v=unMXQTSQEak)
+
+
 
 # 分体平铺 
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
