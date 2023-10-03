@@ -51,8 +51,8 @@
 | [Skeletyl](https://github.com/Bastardkb/Skeletyl)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |   ![屏幕截图 2023-10-03 165542](https://github.com/edte/ergonomic-keyboard/assets/50194671/a39111af-342c-4c2f-b66f-00c4c63dff7e)   |
 | [TBK-Mini](https://github.com/Bastardkb/TBK-Mini)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |   ![屏幕截图 2023-10-03 165722](https://github.com/edte/ergonomic-keyboard/assets/50194671/a2915115-f6d7-415b-bc5c-0701265fc897)   |
 | [Cygnus/天鹅座](https://github.com/juhakaup/keyboards)                               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |   ![屏幕截图 2023-10-03 165342](https://github.com/edte/ergonomic-keyboard/assets/50194671/98d7388c-1a5b-4953-a373-bf30a989e1d9)   |
+| [Scylla](https://github.com/Bastardkb/Scylla)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 4x6    |   ![屏幕截图 2023-10-03 170303](https://github.com/edte/ergonomic-keyboard/assets/50194671/93284c00-6e36-4ee9-a436-ac262a0d3d58)   |
 | [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |      |
-| [Scylla](https://github.com/Bastardkb/Scylla)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 4x6    |      |
 | [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |      |
 | [vfk001](https://github.com/v0Ch/vfk-001)                    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
 | [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |      |
