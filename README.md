@@ -87,9 +87,9 @@
 | 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys | 图片 |
 | ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ---- | ---- |
 | [hummingbird](https://github.com/PJE66/hummingbird)          | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/28d3530b-18b6-4a1c-a0ae-6ff65dd95059)   |
-| [balbuzard](https://github.com/brow/balbuzard)               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
-| [osprette](https://github.com/smores56/osprette)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
-| [Tipper-TF](https://github.com/weteor/Tipper-TF)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [balbuzard](https://github.com/brow/balbuzard)               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b55a0401-71a0-4a55-97d3-9c4bb929f43b)  |
+| [osprette](https://github.com/smores56/osprette)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/f8cda281-f47b-4ca5-8bed-ef40c0fa680d)    |
+| [Tipper-TF](https://github.com/weteor/Tipper-TF)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/73297080-6f75-4204-a491-7a05cbf1020d)    |
 | [cyril279 keyboards](https://github.com/cyril279/keyboards)  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
 | [type c](https://github.com/somepin/type-c)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
 | [redherring](https://github.com/dcpedit/redherring)          | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
