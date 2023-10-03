@@ -1,4 +1,3 @@
-
 ![屏幕截图 2023-10-03 143627](https://github.com/edte/ergo-keeb/assets/50194671/8500a6d9-dfd9-4702-9245-3e4d93fb4514)
 
 
@@ -22,29 +21,29 @@
 [34 keys is all you need: an ergonomic keyboard journey - YouTube](https://www.youtube.com/watch?v=unMXQTSQEak)
 
 
-# 直列
+# 分体平面
 
-## 分体平面
+| 名字                                           | 排列                                   | 开源    | 固件    | 连接 | 热插拔 | keys  | 图片 |
+| ----------------------------------------------- | ------- | ------- | -------- | ------- | ------- | ------- | ------- |
+| [crkbd/corne](https://github.com/foostan/crkbd) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x6 | ![屏幕截图 2023-10-03 153350](https://github.com/edte/ergonomic-keyboard/assets/50194671/95380590-3e81-4ee4-ae6a-cd8e826a9a11) |
+| [sweep](https://github.com/davidphilipbarr/Sweep) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [craftwalk](https://github.com/sotoba/craftwalk) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; |  |  |
+| [cephalopoda](https://github.com/tapioki/cephalopoda) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [torn](https://github.com/rtitmuss/torn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [Squiggle](https://github.com/ibnuda/Squiggle) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [pinci](https://github.com/camrbuss/pinci) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [lunakey](https://github.com/yoichiro/lunakey) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [bug](https://github.com/jimmerricks/bugs) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [pierce](https://github.com/durken1/pierce) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [clog](https://github.com/smores56/clog) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [hillside](https://github.com/mmccoyd/hillside) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [Djinn](https://github.com/tzarc/djinn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [ferris](https://github.com/pierrechevalier83/ferris) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [hypergolic](https://github.com/davidphilipbarr/hypergolic) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
+| [Paroxysm](https://github.com/davidphilipbarr/hypergolic) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | 3x5 |  |
 
-| 名字                                           | 开源    | 固件    | 连接 | keys  |
-| ----------------------------------------------- | ------- | ------- | -------- | ------- |
-| [crkbd/corne](https://github.com/foostan/crkbd) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x6 |
-| [sweep](https://github.com/davidphilipbarr/Sweep) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [craftwalk](https://github.com/sotoba/craftwalk) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 |  |
-| [cephalopoda](https://github.com/tapioki/cephalopoda) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [torn](https://github.com/rtitmuss/torn) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [Squiggle](https://github.com/ibnuda/Squiggle) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [pinci](https://github.com/camrbuss/pinci) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [lunakey](https://github.com/yoichiro/lunakey) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [bug](https://github.com/jimmerricks/bugs) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [pierce](https://github.com/durken1/pierce) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [clog](https://github.com/smores56/clog) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [hillside](https://github.com/mmccoyd/hillside) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [battoota](https://github.com/AlaaSaadAbdo/battoota) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [Djinn](https://github.com/tzarc/djinn) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [ferris](https://github.com/pierrechevalier83/ferris) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [hypergolic](https://github.com/davidphilipbarr/hypergolic) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
-| [Paroxysm](https://github.com/davidphilipbarr/hypergolic) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+
 
 
 # 曲面键盘
