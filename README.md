@@ -29,14 +29,14 @@
 | [sweep](https://github.com/davidphilipbarr/Sweep) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 154156](https://github.com/edte/ergonomic-keyboard/assets/50194671/7b4d4bca-2e17-4331-b3f9-7fe7ff38db9a) |
 | [piantor](https://github.com/beekeeb/piantor) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6 | ![屏幕截图 2023-10-03 160526](https://github.com/edte/ergonomic-keyboard/assets/50194671/61373f4a-bf5e-4029-b347-bba74a20785c) |
 | [cephalopoda](https://github.com/tapioki/cephalopoda) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 155329](https://github.com/edte/ergonomic-keyboard/assets/50194671/8b78a20e-d3b4-43c2-ac28-1a4e738b1031) |
-| [torn](https://github.com/rtitmuss/torn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 155647](https://github.com/edte/ergonomic-keyboard/assets/50194671/a080bf73-ee52-433f-9053-f2a9e907b289) |
+| [torn](https://github.com/rtitmuss/torn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6 | ![屏幕截图 2023-10-03 155647](https://github.com/edte/ergonomic-keyboard/assets/50194671/a080bf73-ee52-433f-9053-f2a9e907b289) |
 | [Squiggle](https://github.com/ibnuda/Squiggle) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 155812](https://github.com/edte/ergonomic-keyboard/assets/50194671/deae686d-9615-4b71-be23-1bbff16ccbdf) |
-| [pinci](https://github.com/camrbuss/pinci) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [lunakey](https://github.com/yoichiro/lunakey) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [bug](https://github.com/jimmerricks/bugs) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [pierce](https://github.com/durken1/pierce) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [clog](https://github.com/smores56/clog) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [hillside](https://github.com/mmccoyd/hillside) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
+| [pinci](https://github.com/camrbuss/pinci) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 160721](https://github.com/edte/ergonomic-keyboard/assets/50194671/26543ad1-3623-456c-b8e4-3c722714136d) |
+| [lunakey](https://github.com/yoichiro/lunakey) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6| ![屏幕截图 2023-10-03 160904](https://github.com/edte/ergonomic-keyboard/assets/50194671/4aebbbb7-9d51-40b5-8c9a-349bb84b96f6) |
+| [bug](https://github.com/jimmerricks/bugs) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 161100](https://github.com/edte/ergonomic-keyboard/assets/50194671/c29c6399-9190-459b-9750-52345322680e) |
+| [pierce](https://github.com/durken1/pierce) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 161244](https://github.com/edte/ergonomic-keyboard/assets/50194671/2e709e71-0c9c-4c73-b0ef-dafef3bc994f) |
+| [clog](https://github.com/smores56/clog) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? | ![屏幕截图 2023-10-03 161353](https://github.com/edte/ergonomic-keyboard/assets/50194671/9c639309-c4af-4254-9afb-a17d33f146d4) |
+| [hillside](https://github.com/mmccoyd/hillside) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? |![屏幕截图 2023-10-03 161452](https://github.com/edte/ergonomic-keyboard/assets/50194671/3c7d976c-8d85-4306-8ea9-1f13c4cfada3)  |
 | [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 | [Djinn](https://github.com/tzarc/djinn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 | [ferris](https://github.com/pierrechevalier83/ferris) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
