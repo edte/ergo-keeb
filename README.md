@@ -57,6 +57,8 @@
 | [Rommana](https://github.com/AlaaSaadAbdo/Rommana) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/5458b82a-9014-4f9a-af41-9f9b6fbaaa56)|
 | [btrfld](https://github.com/SolidHal/btrfld) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/899e2717-4674-480f-8c8b-445f45c90fe6)|
 | [void_ergo](https://github.com/victorlucachi/void_ergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b3e768bd-4cc9-46c4-8957-cb9b07da1927)|
+| [Fulcrum](https://github.com/dschil138/Fulcrum) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/02656b16-49e5-4022-83ec-fa2969168f2e)|
+| [Fulcrum](https://github.com/dschil138/Fulcrum) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/74432824-7f46-45f7-954e-86d8307d6a97)|
 
 
 
@@ -96,6 +98,8 @@
 | [fisk](https://github.com/vvhg1/fisk)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/85ce73f8-99b2-450d-acbb-21e86fec9fff) |
 | [picosplit](https://github.com/akaenner/picosplit)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a5bfc96a-0e29-41b1-ae8a-9db4c02747c1) |
 | [jaredjennings/dactyl-keyboard](https://github.com/jaredjennings/dactyl-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0e911ee7-6c87-40c8-bfa4-3d130a254606) |
+| [Viosuo](https://github.com/Baranowski/Viosuo)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/fcd25b3d-60ec-4ec6-bd16-ea14e7b71a7a)|
+| [lalboard](https://github.com/JesusFreke/lalboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/abd37feb-f013-47e0-8009-36ebd125f915)|
 
 
 
@@ -144,6 +148,7 @@
 | [Wired-Wizza](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a6af4f9b-1f80-4c14-abd4-7dbe7b839a01) |
 | [framedeck](https://github.com/brickbots/framedeck)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0a5aef75-29cf-4749-b0b9-c6505bb20a2e) |
 | [fingerpunch](https://github.com/sadekbaroudi/fingerpunch)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/1125ca8b-d18d-4d4d-be7d-439784cac312) |
+| [ErgoWarp](https://github.com/pseudoku/ErgoWarp)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/7e79b5fa-9628-4ee6-84a3-733a1ce53973)|
 | [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 轨迹球                   | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/27274b84-cdc3-4002-9022-197f904f473b) |
 | [Dilemma](https://github.com/Bastardkb/Dilemma) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/8a78f6c3-6505-4b60-955d-ac96ee87a9c4) |
 | [Asfoora-cirque](https://github.com/AlaaSaadAbdo/battoota) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/da1f38e5-8a14-4328-8b6b-319544aaaafd)  |
@@ -153,7 +158,8 @@
 
 
 
-# Generator
+
+# 键盘生成器
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Dometyl |[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
@@ -162,7 +168,7 @@
 | cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
 | 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
 
-# 轨迹球
+# 轨迹球模块
 - [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
 - [scroll ring trackball](https://github.com/jfedor2/scroll-ring-trackball)
 - [trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2)
@@ -173,15 +179,6 @@
 - [ploppy mini](https://github.com/ploopyco/mini-trackball)[ploppy store](https://ploopy.co/)
 - [ploppy nano](https://github.com/ploopyco/nano-trackball)[ploppy store](https://ploopy.co/)
 - [ploppy thumb](https://github.com/ploopyco/thumb-trackball)[ploppy store](https://ploopy.co/)
-
-# 极端 (imho)
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Ergowarp |[Github](https://github.com/pseudoku/ErgoWarp)|&check; | &#10007; | &check; |
-| Viosuo |[Github](https://github.com/Baranowski/Viosuo)|&check; | &#10007; | &check; |
-| Lalboard |[Github](https://github.com/JesusFreke/lalboard)|&check; | &#10007; | &check; |
-| Fulcrum | [Github](https://github.com/dschil138/Fulcrum) | &check; | &#10007; | &check; |
-| Polykeyboard | [Github](https://github.com/thpoll83/PolyKeyboard) | &check; | &check; | &#10007; |
 
 # 键帽
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
