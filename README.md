@@ -22,27 +22,29 @@
 [34 keys is all you need: an ergonomic keyboard journey - YouTube](https://www.youtube.com/watch?v=unMXQTSQEak)
 
 
+# 直列
 
-# 分体平铺 
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
-| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
-| craftwalk |[Github](https://github.com/sotoba/craftwalk)|&check; | &#10007; | &check; |
-| cephalopoda |[Github](https://github.com/tapioki/cephalopoda)|&check; | &#10007; | &check; |
-|torn  |[Github](https://github.com/rtitmuss/torn)|&check; | &#10007; | &check; |
-| Squiggle |[Github](https://github.com/ibnuda/Squiggle)|&check; | &#10007; | &check; |
-| pinci |[Github](https://github.com/camrbuss/pinci)|&check; | &#10007; | &check; |
-| lunakey |[Github](https://github.com/yoichiro/lunakey)|&check; | &#10007; | &check; |
-| bug |[Github](https://github.com/jimmerricks/bugs)|&check; | &#10007; | &check; |
-|  pierce|[Github](https://github.com/durken1/pierce)|&check; | &#10007; | &check; |
-|clog  |[Github](https://github.com/smores56/clog)|&check; | &#10007; | &check; |
-| hillside |[Github](https://github.com/mmccoyd/hillside)|&check; | &#10007; | &check; |
-| battoota |[Github](https://github.com/AlaaSaadAbdo/battoota)|&check; | &#10007; | &check; |
-| Djinn |[Github](https://github.com/tzarc/djinn)|&check; | &#10007; | &check; |
-| ferris |[Github](https://github.com/pierrechevalier83/ferris)|&check; | &#10007; | &check; |
-| hypergolic |[Github](https://github.com/davidphilipbarr/hypergolic)|&check; | &#10007; | &check; |
-| Paroxysm |[Github](https://github.com/davidphilipbarr/paroxysm)|&check; | &#10007; | &check; |
+## 分体平面
+
+| 名字                                           | 开源    | 固件    | 连接 | keys  |
+| ----------------------------------------------- | ------- | ------- | -------- | ------- |
+| [crkbd/corne](https://github.com/foostan/crkbd) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x6 |
+| [sweep](https://github.com/davidphilipbarr/Sweep) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [craftwalk](https://github.com/sotoba/craftwalk) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 |  |
+| [cephalopoda](https://github.com/tapioki/cephalopoda) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [torn](https://github.com/rtitmuss/torn) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [Squiggle](https://github.com/ibnuda/Squiggle) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [pinci](https://github.com/camrbuss/pinci) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [lunakey](https://github.com/yoichiro/lunakey) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [bug](https://github.com/jimmerricks/bugs) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [pierce](https://github.com/durken1/pierce) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [clog](https://github.com/smores56/clog) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [hillside](https://github.com/mmccoyd/hillside) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [battoota](https://github.com/AlaaSaadAbdo/battoota) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [Djinn](https://github.com/tzarc/djinn) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [ferris](https://github.com/pierrechevalier83/ferris) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [hypergolic](https://github.com/davidphilipbarr/hypergolic) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
+| [Paroxysm](https://github.com/davidphilipbarr/hypergolic) | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | 3x5 |
 
 
 # 曲面键盘
