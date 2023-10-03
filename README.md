@@ -37,7 +37,7 @@
 - [pineapple60](https://github.com/saoto28/pineapple60)
 - [framedeck](https://github.com/brickbots/framedeck)
 - [thinkeys](https://github.com/moduloindustries/thinkeys)
-- probably someone will make a one for upcoming framework 16'
+- 可能有人会为即将推出的框架 16 制作一个'
 
 
 # 一体式平板
@@ -114,10 +114,10 @@
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | Dometyl |[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
-| cadquery Dactyl |[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
-| online Dactyl-configurator |[Github](https://github.com/rianadon/dactyl-configurator)|&check; | &#10007; | &check; |
-| cadquery flatkeyboard generator(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
-| keyboard stl generator |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
+| cadquery 短指 |[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
+| 在线 Dactyl 配置器 |[Github](https://github.com/rianadon/dactyl-configurator)|&check; | &#10007; | &check; |
+| cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
+| 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
 
 # Kits
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
@@ -175,7 +175,7 @@
 
 # DIY Hotswap
 - [handwiredhotswap](https://github.com/stingray127/handwirehotswap)
-- [hotswap pcb generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator)
+- [热插拔 PCB 发生器](https://github.com/50an6xy06r6n/hotswap_pcb_generator)
 
 
 # Macropad
@@ -203,14 +203,14 @@
 
 
 # Guides
-- [building a keyboard with ergogen](https://flatfootfox.com/ergogen-introduction/)
-- [ergogen-v4-migration-guide](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
-- [homerow mods precondition](https://precondition.github.io/home-row-mods)
-- [getreuer keyboard blogs](https://getreuer.info/posts/keyboards/index.html)
+- [用 ergogen 制作键盘](https://flatfootfox.com/ergogen-introduction/)
+- [ergogen-v4-迁移指南](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
+- [Homerow mods前提条件](https://precondition.github.io/home-row-mods)
+- [忠实的键盘博客](https://getreuer.info/posts/keyboards/index.html)
 
 
 # WIP
-- [interesting project I found on Github](https://github.com/nydasco/nydas_keyboard_v2/tree/main/NydasDactyl)
+- [我在 Github 上发现的有趣项目](https://github.com/nydasco/nydas_keyboard_v2/tree/main/NydasDactyl)
 
 # PCB 库封装
 - [kbd](https://github.com/foostan/kbd)
@@ -224,9 +224,9 @@
 - [remapkeys](https://remap-keys.app/)
 - [kmonad](https://github.com/kmonad/kmonad)
 - [keyd](https://github.com/rvaiya/keyd)
-- [warpd for mousing](https://github.com/rvaiya/warpd)
+- [用于鼠标的 warpd](https://github.com/rvaiya/warpd)
 - [ktrl](https://github.com/ItayGarin/ktrl)
-- [control mousing with your keyboard with warpd](https://github.com/rvaiya/warpd)
+- [使用 warpd 用键盘控制鼠标](https://github.com/rvaiya/warpd)
 
 
 # Source
