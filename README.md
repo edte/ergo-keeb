@@ -46,40 +46,40 @@
 
 
 # 曲面键盘
-| 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 轨迹球/垫 | 行数 | keys | 小指张开 |
-|------|------|-------------|---------|--------------|-----|-----|-----|-----|-----|
-| Cygnus/天鹅座 |[Github](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v0.5)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 35 | &check; | 
-| Skeletyl|[Github](https://github.com/Bastardkb/Skeletyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 35 | &check; |
-| TBK-Mini|[Github](https://github.com/Bastardkb/TBK-Mini)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 36 | &check; |
-| Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
-| Scylla|[Github](https://github.com/Bastardkb/Scylla)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 46 | &check; |
-| smudge |[Github](https://github.com/Sandalmoth/keyboards/tree/master/smudge)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 42 | &check; | 
-| vfk001 | [Github](https://github.com/v0Ch/vfk-001) | &check; | &#10007; | &check; | &#10007; | &check; | &#10007; | 36 | &#10007; |
-| trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &#10007; | &#10007; | &check; | &#10007; | 40 | &#10007; | 
-| Dactyl-pivot |[Github](https://github.com/chenfucn/dactyl-pivot)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Dactyl Flex |[Printable](https://www.printables.com/model/102789-dactyl-flex-w-threaded-tenting)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | 5 x 7 | &#10007; | 
-| dactyl-high-profile |[Github](https://github.com/JPricey/dactyl-high-profile )|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| dactyl-Low-profile |[Github](https://github.com/omurovec/dactyl-high-profile)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Blender dactyl |[Github](https://github.com/SeanGilroy/blender-dactyl-keyboard)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Lagrange |[Github](https://github.com/dpapavas/lagrange-keyboard)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| wDactyl |[Github](https://github.com/wlard/keyboards/tree/main/wDactyl%20-%20large)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Tshort dactyl |[Github](https://github.com/tshort/dactyl-keyboard)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Dactyl deskmount |[Github](https://github.com/nickcoutsos/dactyl-deskmount)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Orginal dactyl |[Github](https://github.com/adereth/dactyl-keyboard)|&check; | &#10007; | &check; |  &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Mini thumb dactyl |[Github](https://github.com/aleung/mini-thumb-dactyl-keyboard)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; | 
-| Ishka |[Github](https://github.com/BrokenFlows/Ishka)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &check; | 
-| Smaller dactyl |[Github](https://github.com/tleytek/Smaller-Dactyl)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; |
-| Dk track beast |[Github](https://github.com/davekincade/dactyl-manuform-mini-keyboard/tree/dk-track-beast)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; |
-| Compactyl |[Github](https://github.com/dereknheiley/compactyl)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; |
-| Dactyl manu tide |[Github](https://github.com/Kravchenko32/dactyl-manu-tide)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &check; |
-| Dactyl ez print |[Github](https://github.com/ramonimbao/dactyl-ez2print)|&check; | &#10007; | &check; |  &#10007; | &#10007; | &check; | custom | &#10007; |
-| dactyl-generator-demo |[Github](https://github.com/yejianfengblue/dactyl-generator-demo)|&check; | &#10007; | &check; |  &#10007; | &#10007; | &check; | custom | &check; |
-| Redox manuform |[Thingiverse](https://www.thingiverse.com/thing:3503380)|&check; | &#10007; | &check; | &#10007; | &#10007; | &check; | custom | &#10007; |
-| Explorer-keyboard-rxct |[Github](https://github.com/DreaM117er/Explorer-Keyboard-RxCT)|&check; | &#10007; | &#10007; | &#10007; | &#10007; | &#10007; | custom | &#10007; |
-| wizergo | [Github](https://github.com/terryorchard/keyb/tree/main/wizergo) | &check; | &#10007; | &check; | &check; | &#10007; | &#10007; | 36 + 2 | &#10007; |
-| daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | custom | &#10007; |
-| Rommana | [Github](https://github.com/AlaaSaadAbdo/Rommana)|&check; | - | - | - | - | - | - | - |
-| flow | [Github](https://github.com/jsallan/flow) |&check; | - | - | - | - | - | - | - |
+| 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys   | 图片 |
+| ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ------ | ---- |
+| [Cygnus/天鹅座](Cygnus/天鹅座)                               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |      |
+| [Skeletyl](https://github.com/Bastardkb/Skeletyl)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
+| [TBK-Mini](https://github.com/Bastardkb/TBK-Mini)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
+| [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |      |
+| [Scylla](https://github.com/Bastardkb/Scylla)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 4x6    |      |
+| [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |      |
+| [vfk001](https://github.com/v0Ch/vfk-001)                    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
+| [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |      |
+| [Dactyl-pivot](https://www.printables.com/model/102789-dactyl-flex-w-threaded-tenting) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dactyl Flex](https://github.com/chenfucn/dactyl-pivot)      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 5 x 7  |      |
+| [dactyl-high-profile](https://github.com/JPricey/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [dactyl-Low-profile](https://github.com/omurovec/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Blender dactyl](https://github.com/SeanGilroy/blender-dactyl-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Lagrange](https://github.com/dpapavas/lagrange-keyboard)    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [wDactyl](https://github.com/wlard/keyboards/tree/main/wDactyl%20-%20large) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Tshort dactyl](https://github.com/tshort/dactyl-keyboard)   | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dactyl deskmount](https://github.com/nickcoutsos/dactyl-deskmount) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Orginal dactyl](https://github.com/adereth/dactyl-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Mini thumb dactyl](https://github.com/aleung/mini-thumb-dactyl-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Ishka](https://github.com/BrokenFlows/Ishka)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Smaller dactyl](https://github.com/tleytek/Smaller-Dactyl)  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dk track beast](https://github.com/davekincade/dactyl-manuform-mini-keyboard/tree/dk-track-beast) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Compactyl](https://github.com/dereknheiley/compactyl)       | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dactyl manu tide](https://github.com/Kravchenko32/dactyl-manu-tide) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dactyl ez print](https://github.com/ramonimbao/dactyl-ez2print) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [dactyl-generator-demo](https://github.com/yejianfengblue/dactyl-generator-demo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Redox manuform](https://www.thingiverse.com/thing:3503380)  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Explorer-keyboard-rxct](https://github.com/DreaM117er/Explorer-Keyboard-RxCT) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [wizergo](https://github.com/terryorchard/keyb/tree/main/wizergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [daqtyl](https://github.com/uqs/daqtyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [flow](https://github.com/jsallan/flow)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
 
 
 # 一体式平板
