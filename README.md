@@ -48,9 +48,9 @@
 # 分体曲面
 | 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys   | 图片 |
 | ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ------ | ---- |
-| [Cygnus/天鹅座](Cygnus/天鹅座)                               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |      |
 | [Skeletyl](https://github.com/Bastardkb/Skeletyl)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
 | [TBK-Mini](https://github.com/Bastardkb/TBK-Mini)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
+| [Cygnus/天鹅座](https://github.com/juhakaup/keyboards)                               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |   ![屏幕截图 2023-10-03 165342](https://github.com/edte/ergonomic-keyboard/assets/50194671/98d7388c-1a5b-4953-a373-bf30a989e1d9)   |
 | [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |      |
 | [Scylla](https://github.com/Bastardkb/Scylla)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 4x6    |      |
 | [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |      |
