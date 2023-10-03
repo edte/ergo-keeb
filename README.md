@@ -33,14 +33,6 @@
 | flow | [Github](https://github.com/jsallan/flow) |&check; | - | - | - | - | - | - | - |
 
 
-# 笔记本电脑
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| pineapple60 |[Github](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
-| framedeck |[Github](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
-| thinkeys |[Github](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
-
-
 # 一体式平板
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
@@ -113,6 +105,14 @@
 - [le chiffre keyboard](https://github.com/tominabox1/Le-Chiffre-Keyboard)
 - [ptren keyboard](https://github.com/FSund/pteron-keyboard)
 - [Fisk](https://github.com/vvhg1/fisk)
+
+
+# 笔记本电脑
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| pineapple60 |[Github](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
+| framedeck |[Github](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
+| thinkeys |[Github](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
 
 
 # Generator
