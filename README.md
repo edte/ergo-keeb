@@ -230,6 +230,6 @@
 
 
 # Source
-- Github (I follow lot of people so when someone stars a repo I endup seeing it)
-- Reddit (keyboard related subreddits)
-- Discord (qmk discord, absolem, fingerpuch, barstard etc)
+- Github (我关注了很多人，所以当有人为某个仓库加注星标时，我最终会看到它)
+- Reddit (键盘相关子版块)
+- Discord (qmk Discord、absolem、fingerpuch、barstard 等)
