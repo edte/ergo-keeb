@@ -125,13 +125,12 @@
 # 轨迹球键盘
 | 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys | 图片 |
 | ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ---- | ---- |
-| [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
+| [Charybdis](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/2a48f088-78bb-4935-b998-c38dc4e1cc0c) |
+| [Charybdis 35](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a3566576-d816-4328-9f3f-22a2a55961b5) |
 | [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |    ·![屏幕截图 2023-10-03 171112](https://github.com/edte/ergonomic-keyboards/assets/50194671/4749e3e1-8c47-41cb-bb32-f4e1bbc0276f)  |
-| [Charybdis](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
-| [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
-| [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
-| [trinidox](https://github.com/jsallan/trinidox)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
-| [daqtyl](https://github.com/uqs/daqtyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
+| [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be8ca7bf-0e74-4112-80df-b3e368d3e9c6)  |
+| [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/27274b84-cdc3-4002-9022-197f904f473b) |
+| [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 
 
 
