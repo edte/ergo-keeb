@@ -1,3 +1,4 @@
+
 ![屏幕截图 2023-10-03 143627](https://github.com/edte/ergo-keeb/assets/50194671/8500a6d9-dfd9-4702-9245-3e4d93fb4514)
 
 
@@ -43,6 +44,10 @@
 | [KLOR ](https://github.com/GEIGEIGEIST/KLOR) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/20e95b6a-ed0c-4be9-9e67-d232e7115a28) |
 | [picachoc36 ](https://github.com/zzeneg/picachoc36) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/319a3bac-d064-4cdc-a0c7-54cbff1847a1) |
 | [cheapino ](https://github.com/tompi/cheapino) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/368af2a3-90a0-41d9-a08a-76d83ad9ec55) |
+| [ToasterFuel/Keyboard ](https://github.com/ToasterFuel/Keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be13a030-f02c-448f-975c-f14c095f0b08)|
+| [wren-keyboard ](https://github.com/walterhanley/wren-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/ec6d2468-fea7-4e50-99bf-a1f9640d7aed) |
+| [spleeb ](https://github.com/chrishoage/spleeb) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/c35969c0-2e0e-457c-97b8-a84856b11c1c) |
+| [pica40 ](https://github.com/zzeneg/pica40) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/bb21c4da-99c2-4f34-83d5-48f6aa64495b) |
 
 
 
@@ -105,6 +110,7 @@
 | [osprey](https://github.com/ebastler/osprey) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/3f1d5f32-84ce-4412-9875-2cb511f00920) |
 | [zerosprey42](https://github.com/beekeeb/zerosprey42) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/ac65acbe-7211-4fe9-9c5c-8e92ef203704) |
 | [slim](https://github.com/hazels-garage/bad-wings/tree/master/) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/339f2276-abd0-412f-941f-effba42a7e12) |
+| [torch0](https://github.com/terryorchard/keyb/tree/8e43c6cabf465fd2d7aaf6023da457472571a958/torch0) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/382b3e75-a105-4422-8dfe-fa66bd1edd01) |
 
 
 
@@ -112,11 +118,6 @@
 # 平面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 触控板/轨迹球 | 行数 | keys | 小指张开 | 分体 |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
-| toasterfuel's keyboard | [Github](https://github.com/ToasterFuel/Keyboard) | &check; | &#10007; | &check; | &#10007; | &#10007; | &check; | full size | &#10007; | &check; |
-| wren keyboard | [Github](https://github.com/walterhanley/wren-keyboard) | &check; | &check; | &#10007; | &check; | &#10007; | &check; | full size | &#10007; | &check; |
-| spleeb | [Github](https://github.com/chrishoage/spleeb) | &check; | &check; | &#10007; | &check; | &check; | &check; | 62 | &#10007; | &check; | &check; |
-| pica40 | [Github](https://github.com/zzeneg/pica40) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 40 | &#10007; |
-| torch0 | [Github](https://github.com/terryorchard/keyb/tree/8e43c6cabf465fd2d7aaf6023da457472571a958/torch0) | &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 40 | &check; | &#10007; |
 | eskarp | [Github](https://github.com/rwalkr/eskarp) | &check; | &#10007; | &check; | &#10007; | &check; | &check; | 60 | &#10007; | &check; |
 | tsbym | [Github](https://github.com/cgxeiji/cgxkb/tree/main/tsbym) | &check; | &check; | &#10007; | &check; | &check; | &#10007; | 38 | &#10007; |
 | BrkOut | [Github](https://github.com/weteor/BrkOut) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 37 | &#10007; | &#10007; |
