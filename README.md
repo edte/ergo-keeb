@@ -87,7 +87,7 @@
 | [Explorer-keyboard-rxct](https://github.com/DreaM117er/Explorer-Keyboard-RxCT) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |  ![屏幕截图 2023-10-03 180347](https://github.com/edte/ergonomic-keyboards/assets/50194671/b894e8ee-5082-4477-9cf1-ae19f433a0ea)    |
 | [wizergo](https://github.com/terryorchard/keyb/tree/main/wizergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 180825](https://github.com/edte/ergonomic-keyboards/assets/50194671/fe6c2e83-6a6e-450c-b5ef-2c49cdad6bf6)   |
 | [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181149](https://github.com/edte/ergonomic-keyboards/assets/50194671/b7b7801a-9d8c-4e51-b17a-e835ac9d0cca)   |
-
+| [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be8ca7bf-0e74-4112-80df-b3e368d3e9c6)  |
 
 
 
@@ -122,28 +122,16 @@
 
 
 
-# 轨迹球键盘
+# 外挂集成光标/轨迹球/触控板/小红点
 | 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys | 图片 |
 | ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ---- | ---- |
 | [Charybdis](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/2a48f088-78bb-4935-b998-c38dc4e1cc0c) |
 | [Charybdis 35](https://github.com/Bastardkb/Charybdis)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a3566576-d816-4328-9f3f-22a2a55961b5) |
 | [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |    ·![屏幕截图 2023-10-03 171112](https://github.com/edte/ergonomic-keyboards/assets/50194671/4749e3e1-8c47-41cb-bb32-f4e1bbc0276f)  |
-| [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be8ca7bf-0e74-4112-80df-b3e368d3e9c6)  |
 | [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/27274b84-cdc3-4002-9022-197f904f473b) |
+| [Dilemma](https://github.com/Bastardkb/Dilemma) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/da1f38e5-8a14-4328-8b6b-319544aaaafd)  |
 | [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 
-
-
-# 小红点键盘
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Charybdis |[Github](https://github.com/Bastardkb/Charybdis)|&check; | &check; | &check; |
-
-
-# 触控板键盘
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Dilemma |[Github](https://github.com/Bastardkb/Dilemma)|&check; | &check; | &check; |
 
 
 # 3D 打印平板
