@@ -73,11 +73,9 @@
 | [Dactyl ez print](https://github.com/ramonimbao/dactyl-ez2print) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 175531](https://github.com/edte/ergonomic-keyboards/assets/50194671/632a409e-0b27-4e22-b462-c997f16a87eb)   |
 | [dactyl-generator-demo](https://github.com/yejianfengblue/dactyl-generator-demo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 175732](https://github.com/edte/ergonomic-keyboards/assets/50194671/92ef2eef-76c0-4c5d-a50e-ae924c8435be)   |
 | [Redox manuform](https://www.thingiverse.com/thing:3503380)  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 175915](https://github.com/edte/ergonomic-keyboards/assets/50194671/e0f2deab-c936-47ef-aa41-8da52d190172)   |
-| [Explorer-keyboard-rxct](https://github.com/DreaM117er/Explorer-Keyboard-RxCT) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [wizergo](https://github.com/terryorchard/keyb/tree/main/wizergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [daqtyl](https://github.com/uqs/daqtyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [flow](https://github.com/jsallan/flow)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Explorer-keyboard-rxct](https://github.com/DreaM117er/Explorer-Keyboard-RxCT) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |  ![屏幕截图 2023-10-03 180347](https://github.com/edte/ergonomic-keyboards/assets/50194671/b894e8ee-5082-4477-9cf1-ae19f433a0ea)    |
+| [wizergo](https://github.com/terryorchard/keyb/tree/main/wizergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 180825](https://github.com/edte/ergonomic-keyboards/assets/50194671/fe6c2e83-6a6e-450c-b5ef-2c49cdad6bf6)   |
+| [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181149](https://github.com/edte/ergonomic-keyboards/assets/50194671/b7b7801a-9d8c-4e51-b17a-e835ac9d0cca)   |
 
 
 # 一体平面
@@ -134,6 +132,7 @@
 
 | [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 | [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |    ·![屏幕截图 2023-10-03 171112](https://github.com/edte/ergonomic-keyboards/assets/50194671/4749e3e1-8c47-41cb-bb32-f4e1bbc0276f)  |
+| [flow](https://github.com/jsallan/flow)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181122](https://github.com/edte/ergonomic-keyboards/assets/50194671/8b35d595-829a-4337-be7c-21ce2625dcd1)   |
 
 
 
