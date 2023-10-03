@@ -223,7 +223,7 @@
 - [pnohty](https://github.com/rayduck/pnohty)
 - [rafaelromao's keymap](https://github.com/rafaelromao/keyboards)
 
-# pcg
+# pcb
 - [nRF52840](https://github.com/zhiayang/mikoto)
 - [nice nano](https://github.com/zhiayang/mikoto)
 
