@@ -1,6 +1,8 @@
 # 分体平铺 
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
+| crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
+| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
 | craftwalk |[Github](https://github.com/sotoba/craftwalk)|&check; | &#10007; | &check; |
 | cephalopoda |[Github](https://github.com/tapioki/cephalopoda)|&check; | &#10007; | &check; |
 |torn  |[Github](https://github.com/rtitmuss/torn)|&check; | &#10007; | &check; |
@@ -14,10 +16,8 @@
 | battoota |[Github](https://github.com/AlaaSaadAbdo/battoota)|&check; | &#10007; | &check; |
 | Djinn |[Github](https://github.com/tzarc/djinn)|&check; | &#10007; | &check; |
 | ferris |[Github](https://github.com/pierrechevalier83/ferris)|&check; | &#10007; | &check; |
-| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
 | hypergolic |[Github](https://github.com/davidphilipbarr/hypergolic)|&check; | &#10007; | &check; |
 | Paroxysm |[Github](https://github.com/davidphilipbarr/paroxysm)|&check; | &#10007; | &check; |
-| crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
 
 
 # 曲面键盘
