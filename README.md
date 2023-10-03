@@ -55,10 +55,9 @@
 | [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |   ![屏幕截图 2023-10-03 170756](https://github.com/edte/ergonomic-keyboards/assets/50194671/cc9ed3e1-63d5-4655-8702-82d8be8447f6)   |
 | [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |   ![屏幕截图 2023-10-03 170850](https://github.com/edte/ergonomic-keyboards/assets/50194671/02ff8ce5-2c6c-4103-a937-a430caa1c56d)   |
 | [vfk001](https://github.com/v0Ch/vfk-001)                    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |    ![屏幕截图 2023-10-03 171012](https://github.com/edte/ergonomic-keyboards/assets/50194671/891bd603-899e-47fa-992b-9e839a401939)  |
-| [Dactyl-pivot](https://www.printables.com/model/102789-dactyl-flex-w-threaded-tenting) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [Dactyl Flex](https://github.com/chenfucn/dactyl-pivot)      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 5 x 7  |      |
-| [dactyl-high-profile](https://github.com/JPricey/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
-| [dactyl-Low-profile](https://github.com/omurovec/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
+| [Dactyl-pivot](https://github.com/chenfucn/dactyl-pivot) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  |  5 x 7 |  ![屏幕截图 2023-10-03 171344](https://github.com/edte/ergonomic-keyboards/assets/50194671/24eb19eb-0a0c-4555-b7ff-3cd6d60de7be)    |
+| [dactyl-high-profile](https://github.com/JPricey/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6 |   ![屏幕截图 2023-10-03 171608](https://github.com/edte/ergonomic-keyboards/assets/50194671/b5a56fea-dfa0-4e16-81ac-e9f4871b06c4)   |
+| [dactyl-Low-profile](https://github.com/omurovec/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |  ![屏幕截图 2023-10-03 171727](https://github.com/edte/ergonomic-keyboards/assets/50194671/32fabd19-bea5-4246-9725-b04a8ccb1d9b)    |
 | [Blender dactyl](https://github.com/SeanGilroy/blender-dactyl-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
 | [Lagrange](https://github.com/dpapavas/lagrange-keyboard)    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
 | [wDactyl](https://github.com/wlard/keyboards/tree/main/wDactyl%20-%20large) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
