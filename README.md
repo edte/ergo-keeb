@@ -1,4 +1,4 @@
-# Concave keyboards
+# 凹面键盘
 | Name | Link | Open source | kit/pcb | diy | encoder | track ball/pad | num row | keys | pinky splay |
 |------|------|-------------|---------|--------------|-----|-----|-----|-----|-----|
 | Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
@@ -33,14 +33,14 @@
 
 
 
-# Laptop
+# 笔记本电脑
 - [pineapple60](https://github.com/saoto28/pineapple60)
 - [framedeck](https://github.com/brickbots/framedeck)
 - [thinkeys](https://github.com/moduloindustries/thinkeys)
 - probably someone will make a one for upcoming framework 16'
 
 
-# Unibody flat
+# 一体式平板
 (will put this in table soon)
 - [hummingbird](https://github.com/PJE66/hummingbird)
 - [balbuzard](https://github.com/brow/balbuzard)
@@ -56,7 +56,7 @@
 - [yacc46](https://github.com/1m38/keyboards/tree/main/yacc46)
 
 
-# Split flat 
+# 分体平铺 
 (will put this in table soon)
 - [craftwalk](https://github.com/sotoba/craftwalk)
 - [cephalopoda](https://github.com/tapioki/cephalopoda)
@@ -76,7 +76,7 @@
 - [Paroxysm](https://github.com/davidphilipbarr/paroxysm)
 
 
-# Flat keyboards
+# 平面键盘
 | Name | Link | Open source | kit/pcb | diy | encoder | trackpad/trackball | num row | keys | pinky splay | split |
 |------|------|-------------|---------|-----|---------|--------------------|---------|------|-------------|-------| 
 | KLOR | [Github](https://github.com/GEIGEIGEIST/KLOR) | &check; | &check; | &#10007; | &check; | &#10007; | &#10007; | 36-42 | &check; | &check; |
@@ -101,7 +101,7 @@
 | tps42 | [Github](https://github.com/crehmann/TPS42) | &check; | &check; | &check; | &#10007; | &check; | &#10007; | 42/36 | &#10007; | &check; |
 
 
-# 3d printed flat boards
+# 3D打印平板
 - [btrfld](https://github.com/SolidHal/btrfld) (worth checking out)
 - [void ergo](https://github.com/victorlucachi/void_ergo)
 - [Aether](https://github.com/Y5U/Aether)
@@ -212,7 +212,7 @@
 # WIP
 - [interesting project I found on Github](https://github.com/nydasco/nydas_keyboard_v2/tree/main/NydasDactyl)
 
-# pcb lib footprints
+# PCB 库封装
 - [kbd](https://github.com/foostan/kbd)
 - [keebio parts](https://github.com/keebio/Keebio-Parts.pretty)
 
