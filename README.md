@@ -54,6 +54,9 @@
 | [redox-keyboard](https://github.com/mattdibi/redox-keyboard) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![屏幕截图 2023-10-03 180005](https://github.com/edte/ergonomic-keyboards/assets/50194671/2cd289c8-0d6f-4783-8157-c1283f4b8645)   |
 | [Basbousa](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/542b9171-8db5-4ac9-b635-5bb55978c589)  |
 | [Konafa](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/c92bbdc3-255b-492e-adf2-79edcc0986fc)|
+| [Rommana](https://github.com/AlaaSaadAbdo/Rommana) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/5458b82a-9014-4f9a-af41-9f9b6fbaaa56)|
+| [btrfld](https://github.com/SolidHal/btrfld) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/899e2717-4674-480f-8c8b-445f45c90fe6)|
+| [void_ergo](https://github.com/victorlucachi/void_ergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b3e768bd-4cc9-46c4-8957-cb9b07da1927)|
 
 
 
@@ -90,6 +93,7 @@
 | [wizergo](https://github.com/terryorchard/keyb/tree/main/wizergo) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 180825](https://github.com/edte/ergonomic-keyboards/assets/50194671/fe6c2e83-6a6e-450c-b5ef-2c49cdad6bf6)   |
 | [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181149](https://github.com/edte/ergonomic-keyboards/assets/50194671/b7b7801a-9d8c-4e51-b17a-e835ac9d0cca)   |
 | [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be8ca7bf-0e74-4112-80df-b3e368d3e9c6)  |
+| [fisk](https://github.com/vvhg1/fisk)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/85ce73f8-99b2-450d-acbb-21e86fec9fff) |
 
 
 
@@ -121,6 +125,9 @@
 | [heartbreak](https://github.com/nnandrew/heartbreak)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b6fc23d9-eece-4a13-b8d3-9536267f189a) |
 | [cocot46](https://github.com/aki27kbd/cocot46)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/93424394-b7c7-4fc8-96d3-d0cd9d133753)|
 | [Claudia](https://github.com/subottimale/Claudia)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/24d4dc69-fb1a-4786-aa9a-cd7c8f42c229)|
+| [le_chiffre](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tominabox1/le_chiffre)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0617967f-2927-4244-bd1b-b6f2874b0728)|
+| [pteron-keyboard](https://github.com/FSund/pteron-keyboard)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/171f5b00-1620-4ea2-9ddf-14a191c0d921)|
+
 
 
 
@@ -133,27 +140,12 @@
 | [Barghoot](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/8af627ac-dbbf-42de-8c5b-e3cc22c7b8f4)  |
 | [Batreeq](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/399b8f71-147f-4b47-8801-1c6c01586667)  |
 | [Wired-Wizza](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a6af4f9b-1f80-4c14-abd4-7dbe7b839a01) |
+| [framedeck](https://github.com/brickbots/framedeck)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0a5aef75-29cf-4749-b0b9-c6505bb20a2e) |
 | [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 轨迹球                   | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/27274b84-cdc3-4002-9022-197f904f473b) |
 | [Dilemma](https://github.com/Bastardkb/Dilemma) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/8a78f6c3-6505-4b60-955d-ac96ee87a9c4) |
 | [Asfoora-cirque](https://github.com/AlaaSaadAbdo/battoota) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/da1f38e5-8a14-4328-8b6b-319544aaaafd)  |
-
-
-
-# 3D 打印平板
-- [btrfld](https://github.com/SolidHal/btrfld) (worth checking out)
-- [void ergo](https://github.com/victorlucachi/void_ergo)
-- [Aether](https://github.com/Y5U/Aether)
-- [le chiffre keyboard](https://github.com/tominabox1/Le-Chiffre-Keyboard)
-- [ptren keyboard](https://github.com/FSund/pteron-keyboard)
-- [Fisk](https://github.com/vvhg1/fisk)
-
-
-# 笔记本电脑
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| pineapple60 |[Github](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
-| framedeck |[Github](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
-| thinkeys |[Github](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
+| [pineapple60](https://github.com/saoto28/pineapple60) | 小红点 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/275d1d03-d50a-4319-9db3-665f21cb926c) |
+| [thinkeys](https://github.com/moduloindustries/thinkeys) | 小红点 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b5f31520-ce60-4544-a9f5-253a8441ae3d) |
 
 
 # Generator
