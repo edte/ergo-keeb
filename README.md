@@ -28,6 +28,8 @@
 | [crkbd/corne](https://github.com/foostan/crkbd) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6 | ![屏幕截图 2023-10-03 153350](https://github.com/edte/ergonomic-keyboard/assets/50194671/95380590-3e81-4ee4-ae6a-cd8e826a9a11) |
 | [sweep](https://github.com/davidphilipbarr/Sweep) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 154156](https://github.com/edte/ergonomic-keyboard/assets/50194671/7b4d4bca-2e17-4331-b3f9-7fe7ff38db9a) |
 | [piantor](https://github.com/beekeeb/piantor) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6 | ![屏幕截图 2023-10-03 160526](https://github.com/edte/ergonomic-keyboard/assets/50194671/61373f4a-bf5e-4029-b347-bba74a20785c) |
+| [Djinn](https://github.com/tzarc/djinn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 161845](https://github.com/edte/ergonomic-keyboard/assets/50194671/86e1a56b-f027-4019-81e1-4ffd52f379b6) |
+| [ferris](https://github.com/pierrechevalier83/ferris) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 162012](https://github.com/edte/ergonomic-keyboard/assets/50194671/dcbdb4f5-d12b-4827-b33a-c6472f56a637) |
 | [cephalopoda](https://github.com/tapioki/cephalopoda) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 155329](https://github.com/edte/ergonomic-keyboard/assets/50194671/8b78a20e-d3b4-43c2-ac28-1a4e738b1031) |
 | [torn](https://github.com/rtitmuss/torn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x6 | ![屏幕截图 2023-10-03 155647](https://github.com/edte/ergonomic-keyboard/assets/50194671/a080bf73-ee52-433f-9053-f2a9e907b289) |
 | [Squiggle](https://github.com/ibnuda/Squiggle) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 155812](https://github.com/edte/ergonomic-keyboard/assets/50194671/deae686d-9615-4b71-be23-1bbff16ccbdf) |
@@ -37,11 +39,6 @@
 | [pierce](https://github.com/durken1/pierce) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 | ![屏幕截图 2023-10-03 161244](https://github.com/edte/ergonomic-keyboard/assets/50194671/2e709e71-0c9c-4c73-b0ef-dafef3bc994f) |
 | [clog](https://github.com/smores56/clog) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? | ![屏幕截图 2023-10-03 161353](https://github.com/edte/ergonomic-keyboard/assets/50194671/9c639309-c4af-4254-9afb-a17d33f146d4) |
 | [hillside](https://github.com/mmccoyd/hillside) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ? |![屏幕截图 2023-10-03 161452](https://github.com/edte/ergonomic-keyboard/assets/50194671/3c7d976c-8d85-4306-8ea9-1f13c4cfada3)  |
-| [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [Djinn](https://github.com/tzarc/djinn) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [ferris](https://github.com/pierrechevalier83/ferris) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [hypergolic](https://github.com/davidphilipbarr/hypergolic) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
-| [Paroxysm](https://github.com/davidphilipbarr/hypergolic) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
 | [craftwalk](https://github.com/sotoba/craftwalk) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | ?x5 | ![屏幕截图 2023-10-03 154443](https://github.com/edte/ergonomic-keyboard/assets/50194671/12143435-5a59-4f94-96a6-92d0692ecd04) |
 
 
@@ -136,6 +133,9 @@
 | Tractyl manuform |[Github](https://github.com/noahprince22/tractyl-manuform-keyboard)|&check; | &#10007; | &check; |
 | trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
 | daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
+
+| [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
+
 
 # 小红点键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
