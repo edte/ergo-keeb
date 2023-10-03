@@ -52,10 +52,9 @@
 | [TBK-Mini](https://github.com/Bastardkb/TBK-Mini)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |   ![屏幕截图 2023-10-03 165722](https://github.com/edte/ergonomic-keyboard/assets/50194671/a2915115-f6d7-415b-bc5c-0701265fc897)   |
 | [Cygnus/天鹅座](https://github.com/juhakaup/keyboards)                               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5    |   ![屏幕截图 2023-10-03 165342](https://github.com/edte/ergonomic-keyboard/assets/50194671/98d7388c-1a5b-4953-a373-bf30a989e1d9)   |
 | [Scylla](https://github.com/Bastardkb/Scylla)                | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 4x6    |   ![屏幕截图 2023-10-03 170303](https://github.com/edte/ergonomic-keyboard/assets/50194671/93284c00-6e36-4ee9-a436-ac262a0d3d58)   |
-| [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |      |
-| [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |      |
-| [vfk001](https://github.com/v0Ch/vfk-001)                    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |      |
-| [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |      |
+| [Chortyl](https://github.com/jdart/chortyl)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x4    |   ![屏幕截图 2023-10-03 170756](https://github.com/edte/ergonomic-keyboards/assets/50194671/cc9ed3e1-63d5-4655-8702-82d8be8447f6)   |
+| [smudge](https://github.com/Sandalmoth/keyboards/tree/master/smudge) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 42     |   ![屏幕截图 2023-10-03 170850](https://github.com/edte/ergonomic-keyboards/assets/50194671/02ff8ce5-2c6c-4103-a937-a430caa1c56d)   |
+| [vfk001](https://github.com/v0Ch/vfk-001)                    | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x6    |    ![屏幕截图 2023-10-03 171012](https://github.com/edte/ergonomic-keyboards/assets/50194671/891bd603-899e-47fa-992b-9e839a401939)  |
 | [Dactyl-pivot](https://www.printables.com/model/102789-dactyl-flex-w-threaded-tenting) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
 | [Dactyl Flex](https://github.com/chenfucn/dactyl-pivot)      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 5 x 7  |      |
 | [dactyl-high-profile](https://github.com/JPricey/dactyl-high-profile) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |      |
@@ -135,6 +134,8 @@
 | daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
 
 | [battoota](https://github.com/AlaaSaadAbdo/battoota) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |  |
+| [trinidox](https://github.com/jsallan/trinidox)              | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |    ·![屏幕截图 2023-10-03 171112](https://github.com/edte/ergonomic-keyboards/assets/50194671/4749e3e1-8c47-41cb-bb32-f4e1bbc0276f)  |
+
 
 
 # 小红点键盘
