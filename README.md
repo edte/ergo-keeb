@@ -223,12 +223,20 @@
 - [pnohty](https://github.com/rayduck/pnohty)
 - [rafaelromao's keymap](https://github.com/rafaelromao/keyboards)
 
+# pcg
+- [nRF52840](https://github.com/zhiayang/mikoto)
+- [nice nano](https://github.com/zhiayang/mikoto)
 
-# step by step diy 教程
+
+# 教程
+- [Redox_w 无线分体键盘教程](https://www.bilibili.com/video/BV15q4y1y7Ty/?vd_source=537a4f3646b3c437e5561c37a36871b8)
+- [浅谈ZMK Firmware](https://www.bilibili.com/video/BV17s4y1k78v/?spm_id_from=333.999.0.0&vd_source=537a4f3646b3c437e5561c37a36871b8)
+- [QMK教程](https://space.bilibili.com/50496994/channel/collectiondetail?sid=1008025&ctype=0)
 - [用 ergogen 制作键盘](https://flatfootfox.com/ergogen-introduction/)
 - [ergogen-v4-迁移指南](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
 - [Homerow mods前提条件](https://precondition.github.io/home-row-mods)
 - [忠实的键盘博客](https://getreuer.info/posts/keyboards/index.html)
+
 
 # 文档
 - [qmk](https://docs.qmk.fm/#/keycodes?id=auto-shift)
