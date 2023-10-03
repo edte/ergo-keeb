@@ -1,5 +1,26 @@
+# 分体平铺 
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| craftwalk |[Github](https://github.com/sotoba/craftwalk)|&check; | &#10007; | &check; |
+| cephalopoda |[Github](https://github.com/tapioki/cephalopoda)|&check; | &#10007; | &check; |
+|torn  |[Github](https://github.com/rtitmuss/torn)|&check; | &#10007; | &check; |
+| Squiggle |[Github](https://github.com/ibnuda/Squiggle)|&check; | &#10007; | &check; |
+| pinci |[Github](https://github.com/camrbuss/pinci)|&check; | &#10007; | &check; |
+| lunakey |[Github](https://github.com/yoichiro/lunakey)|&check; | &#10007; | &check; |
+| bug |[Github](https://github.com/jimmerricks/bugs)|&check; | &#10007; | &check; |
+|  pierce|[Github](https://github.com/durken1/pierce)|&check; | &#10007; | &check; |
+|clog  |[Github](https://github.com/smores56/clog)|&check; | &#10007; | &check; |
+| hillside |[Github](https://github.com/mmccoyd/hillside)|&check; | &#10007; | &check; |
+| battoota |[Github](https://github.com/AlaaSaadAbdo/battoota)|&check; | &#10007; | &check; |
+| Djinn |[Github](https://github.com/tzarc/djinn)|&check; | &#10007; | &check; |
+| ferris |[Github](https://github.com/pierrechevalier83/ferris)|&check; | &#10007; | &check; |
+| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
+| hypergolic |[Github](https://github.com/davidphilipbarr/hypergolic)|&check; | &#10007; | &check; |
+| Paroxysm |[Github](https://github.com/davidphilipbarr/paroxysm)|&check; | &#10007; | &check; |
+| crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
 
-# 凹面键盘
+
+# 曲面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 轨迹球/垫 | 行数 | keys | 小指张开 |
 |------|------|-------------|---------|--------------|-----|-----|-----|-----|-----|
 | Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
@@ -50,26 +71,6 @@
 | trochilidae |[Github](https://github.com/jcmkk3/trochilidae)|&check; | &#10007; | &check; |
 | yacc46 |[Github](https://github.com/1m38/keyboards/tree/main/yacc46)|&check; | &#10007; | &check; |
 
-# 分体平铺 
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| craftwalk |[Github](https://github.com/sotoba/craftwalk)|&check; | &#10007; | &check; |
-| cephalopoda |[Github](https://github.com/tapioki/cephalopoda)|&check; | &#10007; | &check; |
-|torn  |[Github](https://github.com/rtitmuss/torn)|&check; | &#10007; | &check; |
-| Squiggle |[Github](https://github.com/ibnuda/Squiggle)|&check; | &#10007; | &check; |
-| pinci |[Github](https://github.com/camrbuss/pinci)|&check; | &#10007; | &check; |
-| lunakey |[Github](https://github.com/yoichiro/lunakey)|&check; | &#10007; | &check; |
-| bug |[Github](https://github.com/jimmerricks/bugs)|&check; | &#10007; | &check; |
-|  pierce|[Github](https://github.com/durken1/pierce)|&check; | &#10007; | &check; |
-|clog  |[Github](https://github.com/smores56/clog)|&check; | &#10007; | &check; |
-| hillside |[Github](https://github.com/mmccoyd/hillside)|&check; | &#10007; | &check; |
-| battoota |[Github](https://github.com/AlaaSaadAbdo/battoota)|&check; | &#10007; | &check; |
-| Djinn |[Github](https://github.com/tzarc/djinn)|&check; | &#10007; | &check; |
-| ferris |[Github](https://github.com/pierrechevalier83/ferris)|&check; | &#10007; | &check; |
-| sweep |[Github](https://github.com/davidphilipbarr/Sweep)|&check; | &#10007; | &check; |
-| hypergolic |[Github](https://github.com/davidphilipbarr/hypergolic)|&check; | &#10007; | &check; |
-| Paroxysm |[Github](https://github.com/davidphilipbarr/paroxysm)|&check; | &#10007; | &check; |
-| crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
 
 
 
