@@ -41,9 +41,10 @@
 # 笔记本电脑
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
-- |pineapple60|[pineapple60](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
-- |framedeck|[framedeck](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
-- |thinkeys|[thinkeys](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
+| pineapple60 |[Github](https://github.com/saoto28/pineapple60)|&check; | &#10007; | &check; |
+| framedeck |[Github](https://github.com/brickbots/framedeck)|&check; | &#10007; | &check; |
+| thinkeys |[Github](https://github.com/moduloindustries/thinkeys)|&check; | &#10007; | &check; |
+
 
 # 一体式平板
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
