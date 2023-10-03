@@ -1,4 +1,4 @@
-# 分体平铺 
+r# 分体平铺 
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
 | crkbd/corne |[Github](https://github.com/foostan/crkbd)|&check; | &#10007; | &check; |
@@ -98,6 +98,21 @@
 | claudia | [Github](https://github.com/subottimale/Claudia) | &check; | &check; | &#10007; | &#10007; | &#10007; | &#10007; | 34 | &#10007; | &#10007; |
 | tps42 | [Github](https://github.com/crehmann/TPS42) | &check; | &check; | &check; | &#10007; | &check; | &#10007; | 42/36 | &#10007; | &check; |
 
+# 轨迹球键盘
+| 姓名 | 链接 | 开源 | 套件/PCB | diy |
+|------|------|-------------|---------|--------------|
+| Charybdis Nano |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano)|&check; | &check; | &check; |
+| Charybdis |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/4x6)|&check; | &check; | &check; |
+| tryadactyl |[Github](https://github.com/wolfwood/tryadactyl)|&check; | &#10007; | &check; |
+| Tractyl manuform |[Github](https://github.com/noahprince22/tractyl-manuform-keyboard)|&check; | &#10007; | &check; |
+| trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
+| daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
+
+# 小红点键盘
+
+
+# 触控板键盘
+
 
 # 3D打印平板
 - [btrfld](https://github.com/SolidHal/btrfld) (worth checking out)
@@ -134,15 +149,6 @@
 | Pico split |[Github](https://github.com/akaenner/picosplit),[sells here](https://kaenner.de/picosplit/buy)|&#10007; | &check; | &#10007; |
 | Jaredjennings dactyl |[Github](https://github.com/jaredjennings/dactyl-keyboard)|&check; | &check; | &check; |
 
-# 指针支持
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Charybdis Nano |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano)|&check; | &check; | &check; |
-| Charybdis |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/4x6)|&check; | &check; | &check; |
-| tryadactyl |[Github](https://github.com/wolfwood/tryadactyl)|&check; | &#10007; | &check; |
-| Tractyl manuform |[Github](https://github.com/noahprince22/tractyl-manuform-keyboard)|&check; | &#10007; | &check; |
-| trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
-| daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; |
 
 # 轨迹球
 - [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
