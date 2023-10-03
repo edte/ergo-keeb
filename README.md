@@ -23,8 +23,10 @@ r# 分体平铺
 # 曲面键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy | 编码器 | 轨迹球/垫 | 行数 | keys | 小指张开 |
 |------|------|-------------|---------|--------------|-----|-----|-----|-----|-----|
+| Cygnus/天鹅座 |[Github](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v0.5)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 35 | &check; | 
+| Skeletyl|[Github](https://github.com/Bastardkb/Skeletyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 35 | &check; |
+| TBK-Mini|[Github](https://github.com/Bastardkb/TBK-Mini)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 36 | &check; |
 | Chortyl|[Github](https://github.com/jdart/chortyl)| &check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 34 | &check; |
-| Cygnus |[Github](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v0.5)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 36 | &check; | 
 | smudge |[Github](https://github.com/Sandalmoth/keyboards/tree/master/smudge)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | 42 | &check; | 
 | vfk001 | [Github](https://github.com/v0Ch/vfk-001) | &check; | &#10007; | &check; | &#10007; | &check; | &#10007; | 36 | &#10007; |
 | trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &#10007; | &#10007; | &check; | &#10007; | 40 | &#10007; | 
@@ -101,8 +103,7 @@ r# 分体平铺
 # 轨迹球键盘
 | 姓名 | 链接 | 开源 | 套件/PCB | diy |
 |------|------|-------------|---------|--------------|
-| Charybdis Nano |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano)|&check; | &check; | &check; |
-| Charybdis |[Github](https://github.com/Bastardkb/Charybdis/tree/main/files/4x6)|&check; | &check; | &check; |
+| Charybdis |[Github](https://github.com/Bastardkb/Charybdis)|&check; | &check; | &check; |
 | tryadactyl |[Github](https://github.com/wolfwood/tryadactyl)|&check; | &#10007; | &check; |
 | Tractyl manuform |[Github](https://github.com/noahprince22/tractyl-manuform-keyboard)|&check; | &#10007; | &check; |
 | trinidox |[Github](https://github.com/jsallan/trinidox)|&check; | &#10007; | &check; |
