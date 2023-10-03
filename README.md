@@ -94,6 +94,8 @@
 | [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181149](https://github.com/edte/ergonomic-keyboards/assets/50194671/b7b7801a-9d8c-4e51-b17a-e835ac9d0cca)   |
 | [tryadactyl](https://github.com/wolfwood/tryadactyl)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/be8ca7bf-0e74-4112-80df-b3e368d3e9c6)  |
 | [fisk](https://github.com/vvhg1/fisk)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/85ce73f8-99b2-450d-acbb-21e86fec9fff) |
+| [picosplit](https://github.com/akaenner/picosplit)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a5bfc96a-0e29-41b1-ae8a-9db4c02747c1) |
+| [jaredjennings/dactyl-keyboard](https://github.com/jaredjennings/dactyl-keyboard)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0e911ee7-6c87-40c8-bfa4-3d130a254606) |
 
 
 
@@ -141,11 +143,14 @@
 | [Batreeq](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     |  ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/399b8f71-147f-4b47-8801-1c6c01586667)  |
 | [Wired-Wizza](https://github.com/AlaaSaadAbdo/battoota)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/a6af4f9b-1f80-4c14-abd4-7dbe7b839a01) |
 | [framedeck](https://github.com/brickbots/framedeck)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/0a5aef75-29cf-4749-b0b9-c6505bb20a2e) |
+| [fingerpunch](https://github.com/sadekbaroudi/fingerpunch)              | 轨迹球           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 40     | ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/1125ca8b-d18d-4d4d-be7d-439784cac312) |
 | [Tractyl manuform](https://github.com/noahprince22/tractyl-manuform-keyboard)                      | 轨迹球                   | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/27274b84-cdc3-4002-9022-197f904f473b) |
 | [Dilemma](https://github.com/Bastardkb/Dilemma) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/8a78f6c3-6505-4b60-955d-ac96ee87a9c4) |
 | [Asfoora-cirque](https://github.com/AlaaSaadAbdo/battoota) | 触控板 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/da1f38e5-8a14-4328-8b6b-319544aaaafd)  |
 | [pineapple60](https://github.com/saoto28/pineapple60) | 小红点 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/275d1d03-d50a-4319-9db3-665f21cb926c) |
 | [thinkeys](https://github.com/moduloindustries/thinkeys) | 小红点 | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check; | &check; | 3x5 |![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/b5f31520-ce60-4544-a9f5-253a8441ae3d) |
+
+
 
 
 # Generator
@@ -156,16 +161,6 @@
 | 在线 Dactyl 配置器 |[Github](https://github.com/rianadon/dactyl-configurator)|&check; | &#10007; | &check; |
 | cadquery 平板键盘生成器(WIP) |[Github](https://github.com/mryndzionek/cq_keyboard_gen) |&check; | &#10007; | &check; |
 | 键盘STL生成器 |[Github](https://github.com/jeffminton/keyboard_stl_generator) |&check; | &#10007; | &check; |
-
-# 套件
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| Skeletyl |[Github](https://github.com/Bastardkb/Skeletyl), [sells here](https://bastardkb.com/)|&check; | &check; | &check; |
-| Scylla |[Github](https://github.com/Bastardkb/Scylla),[sells here](https://bastardkb.com/)|&check; | &check; | &check; |
-| fingerpunch keyboards |[Github](https://github.com/sadekbaroudi/fingerpunch),[sells here](https://fingerpunch.xyz/)|&#10007; | &check; | &#10007; |
-| Pico split |[Github](https://github.com/akaenner/picosplit),[sells here](https://kaenner.de/picosplit/buy)|&#10007; | &check; | &#10007; |
-| Jaredjennings dactyl |[Github](https://github.com/jaredjennings/dactyl-keyboard)|&check; | &check; | &check; |
-
 
 # 轨迹球
 - [rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
