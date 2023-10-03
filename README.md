@@ -78,22 +78,28 @@
 | [Rommana](https://github.com/AlaaSaadAbdo/Rommana)           | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | custom |   ![屏幕截图 2023-10-03 181149](https://github.com/edte/ergonomic-keyboards/assets/50194671/b7b7801a-9d8c-4e51-b17a-e835ac9d0cca)   |
 
 
-# 一体平面
-| 姓名 | 链接 | 开源 | 套件/PCB | diy |
-|------|------|-------------|---------|--------------|
-| hummingbird |[Github](https://github.com/PJE66/hummingbird)|&check; | &#10007; | &check; |
-| balbuzard |[Github](https://github.com/brow/balbuzard)|&check; | &#10007; | &check; |
-| osprette |[Github](https://github.com/smores56/osprette)|&check; | &#10007; | &check; |
-| Tipper-TF |[Github](https://github.com/weteor/Tipper-TF)|&check; | &#10007; | &check; |
-| cyril279 keyboards |[Github](https://github.com/cyril279/keyboards)|&check; | &#10007; | &check; |
-| type c |[Github](https://github.com/somepin/type-c)|&check; | &#10007; | &check; |
-| redherring |[Github](https://github.com/dcpedit/redherring)|&check; | &#10007; | &check; |
-| Claudia |[Github](https://github.com/subottimale/Claudia)|&check; | &#10007; | &check; |
-|chocV  |[Github](https://github.com/brickbots/chocV)|&check; | &#10007; | &check; |
-| ghoul |[Github](https://github.com/tzarc/ghoul)|&check; | &#10007; | &check; |
-|slabv  |[Github](https://github.com/brickbots/slabv)|&check; | &#10007; | &check; |
-| trochilidae |[Github](https://github.com/jcmkk3/trochilidae)|&check; | &#10007; | &check; |
-| yacc46 |[Github](https://github.com/1m38/keyboards/tree/main/yacc46)|&check; | &#10007; | &check; |
+
+
+
+
+# 分开一体平面
+
+| 名字                                                         | 排列 | 开源    | 固件        | 连接                 | 热插拔支持 | 矮轴支持 | keys | 图片 |
+| ------------------------------------------------------------ | ---- | ------- | ----------- | -------------------- | ---------- | -------- | ---- | ---- |
+| [hummingbird](https://github.com/PJE66/hummingbird)          | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |   ![image](https://github.com/edte/ergonomic-keyboards/assets/50194671/28d3530b-18b6-4a1c-a0ae-6ff65dd95059)   |
+| [balbuzard](https://github.com/brow/balbuzard)               | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [osprette](https://github.com/smores56/osprette)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [Tipper-TF](https://github.com/weteor/Tipper-TF)             | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [cyril279 keyboards](https://github.com/cyril279/keyboards)  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [type c](https://github.com/somepin/type-c)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [redherring](https://github.com/dcpedit/redherring)          | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [Claudia](https://github.com/subottimale/Claudia)            | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [chocV](https://github.com/brickbots/chocV)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [ghoul](https://github.com/tzarc/ghoul)                      | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [slabv](https://github.com/brickbots/slabv)                  | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [trochilidae](https://github.com/jcmkk3/trochilidae)         | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+| [yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) | 直列 | &check; | zmk/qmk/tmk | 有线/无线/蓝牙接收器 | &check;    | &check;  | 3x5  |      |
+
 
 
 # 平面键盘
