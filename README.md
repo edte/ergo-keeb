@@ -224,34 +224,22 @@
 - [rafaelromao's keymap](https://github.com/rafaelromao/keyboards)
 
 
-# 指南
+# step by step diy 教程
 - [用 ergogen 制作键盘](https://flatfootfox.com/ergogen-introduction/)
 - [ergogen-v4-迁移指南](https://github.com/tsteffek/Ergogen-V4-Migration-Guide)
 - [Homerow mods前提条件](https://precondition.github.io/home-row-mods)
 - [忠实的键盘博客](https://getreuer.info/posts/keyboards/index.html)
+
+# 文档
 - [qmk](https://docs.qmk.fm/#/keycodes?id=auto-shift)
+- [zmk](https://zmk.dev/)
+
+
+# 工具
 - [via](https://usevia.app/)
 - [vial](https://get.vial.today/)
-- [zmk](https://zmk.dev/)
 - [zmk editor](https://nickcoutsos.github.io/keymap-editor/)
 - [按键测试](https://keyboard.bmcx.com/)
-
-
-
-
-
-
-
-
-# WIP
-- [我在 Github 上发现的有趣项目](https://github.com/nydasco/nydas_keyboard_v2/tree/main/NydasDactyl)
-
-# PCB 库封装
-- [kbd](https://github.com/foostan/kbd)
-- [keebio parts](https://github.com/keebio/Keebio-Parts.pretty)
-
-
-# Tools
 - [HID remapper](https://github.com/jfedor2/hid-remapper)
 - [keymap drawer](https://github.com/caksoylar/keymap-drawer)
 - [keymap.c visualizer](https://github.com/yskoht/keymapviz)
